@@ -7,7 +7,7 @@ start_date = 202010
 end_date = 202013
 view_date_list = list(range(start_date,end_date))
 speci_date_jsurl = []
-speci_info_list = []
+
 ep_list = ['隐秘而伟大','启鱼·成语故事—古物篇','大秦赋',]
 zy_list = ['今日说法','新闻周刊','动物世界','百家讲坛','远方的家','挑战不可能', '一线', '第10放映室', ]
 namelist = []
@@ -56,7 +56,7 @@ def search(name):
             js_split = js_url.split('?t')[0].split('/')
             pre_js = '/'.join(js_split[:-1]) + '/'
             p_num = js_url.split('/')[-1].split('.js?t')[0]
-            
+            speci_info_list = []
             for i in view_date_list:
                 select_view_url = pre_js + str(i) + '/' + p_num + '_' + str(i) + '.js'
                 speci_date_jsurl.append(select_view_url)
@@ -171,7 +171,7 @@ def get_dlink(guid):
             return 0
 with open('ctv.m3u','a',encoding='utf-8') as f:
     f.write('#EXTM3U')
-
+count = 0
 for i in namelist:
     pp('当前节目：',i)
     
@@ -179,6 +179,7 @@ for i in namelist:
     if data:
         pp(f'-------{i}-------------Total:{len(data)}.---------------------')
         for x in data:
+            count += 1
             t = unquote(x[0])
             if i in t:
 	            title = t.replace(i,'')
@@ -191,7 +192,8 @@ for i in namelist:
             if result:
                 res,dlink = result 
                 pp(res,dlink)
-                pp(f'-------{i}-------------Total:{len(data)}.---------------------')
+                remain = len(data)-count
+                pp(f'-------{i}-------------Total:{len(data)}.-------------Remain:{remain}--------')
                 res.replace(' ','')
                 if int(res) <1000:
                     pp('\n\n\n------', res  + " kbps-------\n\n\n\n")
