@@ -61,7 +61,6 @@ def search(name):
                 select_view_url = pre_js + str(i) + '/' + p_num + '_' + str(i) + '.js'
                 speci_date_jsurl.append(select_view_url)
                 pp('select_view_url',select_view_url)
-                time.sleep(33)
                 r = try_get(select_view_url,headers = headers)
                 # r.encoding = 'utf-8'
                 js_html = r.text
