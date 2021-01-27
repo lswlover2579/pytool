@@ -198,7 +198,7 @@ for i in namelist:
                     pp('\n\n\n------', res  + " kbps-------\n\n\n\n")
                     time.sleep(3)
                 time.sleep(1)
-                msg = f"\n#EXTINF:-1 group-title=\"{i} {res} + kbps\",{title}\n{dlink}"
+                msg = f"\n#EXTINF:-1 group-title=\"{i} {res}kbps\",{title}\n{dlink}"
                 with open('ctv.m3u','a',encoding='utf-8') as f:
 	                f.write(msg)
     else:
