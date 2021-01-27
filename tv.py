@@ -6,8 +6,8 @@ from common import *
 start_date = 202010
 end_date = 202013
 view_date_list = list(range(start_date,end_date))
-spci_date_jsurl = []
-spci_info_list = []
+speci_date_jsurl = []
+speci_info_list = []
 ep_list = ['隐秘而伟大','启鱼·成语故事—古物篇','大秦赋',]
 zy_list = ['今日说法','新闻周刊','动物世界','百家讲坛','远方的家','挑战不可能', '一线', '第10放映室', ]
 namelist = []
@@ -59,7 +59,7 @@ def search(name):
             
             for i in view_date_list:
                 select_view_url = pre_js + str(i) + '/' + p_num + '_' + str(i) + '.js'
-                spci_date_jsurl.append(select_view_url)
+                speci_date_jsurl.append(select_view_url)
                 pp('select_view_url',select_view_url)
                 time.sleep(33)
                 r = try_get(select_view_url,headers = headers)

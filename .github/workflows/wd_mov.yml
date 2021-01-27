@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git config --local user.name "$GITHUB_ACTOR"
-          git pull --ff-only https://${{ secrets.PAT }}@github.com/lswlover2579/pytools.git
+          git pull --ff-only https://${{ secrets.PAT }}@github.com/lswlover2579/pytool.git
           git rm movies.m3u
           
       # Runs a set of commands using the runners shell
@@ -46,11 +46,11 @@ jobs:
         run: |
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git config --local user.name "$GITHUB_ACTOR"
-          git pull --ff-only https://${{ secrets.PAT }}@github.com/lswlover2579/pytools.git
+          git pull --ff-only https://${{ secrets.PAT }}@github.com/lswlover2579/pytool.git
           git add .
           git status
           git commit -m "Update mov from wd" -a
-          git push https://${{ secrets.PAT }}@github.com/lswlover2579/pytools.git
+          git push https://${{ secrets.PAT }}@github.com/lswlover2579/pytool.git
       - name: 'Push changes'
         uses: ad-m/github-push-action@master
         with:
