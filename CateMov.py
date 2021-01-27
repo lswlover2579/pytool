@@ -26,7 +26,7 @@ mov_list = []
 def print_time():
 	t = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 	return '【' + t + '】 '
-
+date = print_time()[1:-2].replace('-','').split(' ')[0]
 def get(url,headers = headers):
 	try:
 		r = requests.get(url,headers = headers)
@@ -84,7 +84,7 @@ def search_f_site(data):
 				print(f'{print_time()}m3u8链接为：',play_link[0],'\n')
 				mov['vod_url'] = play_link[0]
 				mov['playable'] = 'YES'
-				with open(print_time()+ '.txt','a',encoding='utf-8') as f:
+				with open(date + '.txt','a',encoding='utf-8') as f:
 					f.write(mov['title'] + '-' + mov['rate'] +play_link[0])
 			else:
 				print(mov['title'],'评分',mov['rate'],'无源')

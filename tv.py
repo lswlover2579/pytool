@@ -170,8 +170,8 @@ def get_dlink(guid):
             return (resolution,dlink)
         else:
             return 0
-# with open('ctv.m3u','a',encoding='utf-8') as f:
-#     f.write('#EXTM3U')
+with open('ctv.m3u','a',encoding='utf-8') as f:
+    f.write('#EXTM3U')
 
 for i in namelist:
     pp('当前节目：',i)
