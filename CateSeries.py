@@ -126,6 +126,8 @@ def get_db_series(data):
 				link = 'https://www.jy3y.com' + li.a['href']
 				epsoide_num = mov['title'] + ' E' + str(epsoide_tag.index(li) + 1)
 				
+				txt_num = ' E' + str(epsoide_tag.index(li) + 1)
+				
 				play_page_r = try_get(link,headers=headers)
 				print('\n\nplay_page_r is _\n',play_page_r,'\n')
 				if play_page_r:
@@ -135,7 +137,7 @@ def get_db_series(data):
 					print(print_time(),epsoide_play_link)
 					epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 					
-					msg = f"\n{mov['title']}{mov['rate']}分{epsoide_num}，{epsoide_play_link[0]}"
+					msg = f"\n{mov['title']}{mov['rate']}分{txt_num}，{epsoide_play_link[0]}"
 					with open(date + '.txt','a',encoding='utf-8') as f:
 						f.write(msg)
 			if epsoide_links:
@@ -164,6 +166,8 @@ def get_db_series(data):
 					link = 'https://www.jy3y.com' + li.a['href']
 					epsoide_num = mov['title'] + ' E' + str(epsoide_tag.index(li) + 1)
 					
+					txt_num = ' E' + str(epsoide_tag.index(li) + 1)
+					
 					play_page_r = try_get(link,headers=headers)
 					print('\n\nplay_page_r is _\n',play_page_r,'\n')
 					if play_page_r:
@@ -172,7 +176,7 @@ def get_db_series(data):
 						epsoide_play_link = re.findall(pattern,play_page_r.text)
 						print(print_time(),epsoide_play_link)
 						epsoide_links.append((epsoide_num, epsoide_play_link[0]))
-						msg = f"\n{mov['title']}{mov['rate']}分{epsoide_num}，{epsoide_play_link[0]}"
+						msg = f"\n{mov['title']}{mov['rate']}分{txt_num}，{epsoide_play_link[0]}"
 						with open(date + '.txt','a',encoding='utf-8') as f:
 							f.write(msg)
 				if epsoide_links:
@@ -208,14 +212,19 @@ def get_Series(name):
 		for li in epsoide_tag:
 			link = 'https://www.jy3y.com' + li.a['href']
 			epsoide_num = name + ' E' + str(epsoide_tag.index(li) + 1)
+			txt_num = ' E' + str(epsoide_tag.index(li) + 1)
 			
 			play_page_r = try_get(link,headers=headers)
-
-			p = r'var vfrom="\d+";var vpart="\d+";var now="(.*?)";var pn='
-			pattern = re.compile(p)
-			epsoide_play_link = re.findall(pattern,play_page_r.text)
-			print(print_time(),epsoide_play_link)
-			epsoide_links.append((epsoide_num, epsoide_play_link[0]))
+			if play_page_r:
+				p = r'var vfrom="\d+";var vpart="\d+";var now="(.*?)";var pn='
+				pattern = re.compile(p)
+				epsoide_play_link = re.findall(pattern,play_page_r.text)
+				
+				msg = f"\n{series_name}{txt_num}，{epsoide_play_link[0]}"
+				with open(date + '.txt','a',encoding='utf-8') as f:
+					f.write(msg)
+				print(print_time(),epsoide_play_link)
+				epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 		if epsoide_links:
 			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分,共{len(epsoide_links)}集\n##"
 			with open('Series.m3u','a',encoding='utf-8') as f:
