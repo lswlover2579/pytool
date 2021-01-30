@@ -226,7 +226,7 @@ def get_Series(name):
 				print(print_time(),epsoide_play_link)
 				epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 		if epsoide_links:
-			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分,共{len(epsoide_links)}集\n##"
+			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{series_name},共{len(epsoide_links)}集\n##"
 			with open('Series.m3u','a',encoding='utf-8') as f:
 				f.write(mlmsg)
 			series_info['epsoide_links'] = epsoide_links
