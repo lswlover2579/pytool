@@ -139,6 +139,9 @@ def get_db_series(data):
 					with open(date + '.txt','a',encoding='utf-8') as f:
 						f.write(msg)
 			if epsoide_links:
+				mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分,共{len(epsoide_links)}集\n##"
+				with open('Series.m3u','a',encoding='utf-8') as f:
+					f.write(mlmsg)
 				series_info['epsoide_links'] = epsoide_links
 				series_info_list.append(series_info)
 		elif ' ' in mov['title']:
@@ -173,6 +176,9 @@ def get_db_series(data):
 						with open(date + '.txt','a',encoding='utf-8') as f:
 							f.write(msg)
 				if epsoide_links:
+					mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分,共{len(epsoide_links)}集\n##"
+					with open('Series.m3u','a',encoding='utf-8') as f:
+						f.write(mlmsg)
 					series_info['epsoide_links'] = epsoide_links
 					series_info_list.append(series_info)
 			else:
@@ -210,7 +216,11 @@ def get_Series(name):
 			epsoide_play_link = re.findall(pattern,play_page_r.text)
 			print(print_time(),epsoide_play_link)
 			epsoide_links.append((epsoide_num, epsoide_play_link[0]))
-		series_info['epsoide_links'] = epsoide_links
+		if epsoide_links:
+			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分,共{len(epsoide_links)}集\n##"
+			with open('Series.m3u','a',encoding='utf-8') as f:
+				f.write(mlmsg)
+			series_info['epsoide_links'] = epsoide_links
 		return series_info
 	else:
 		return 0		
@@ -266,6 +276,7 @@ def main():
 		if e != '热门':
 			check_list.extend(real_mov_list)
 		all_mov_list.extend(real_mov_list)
+		
 		series_info_list = get_db_series(really_mov_list)
 		if series_info_list:
 			#print(series_info_list)
