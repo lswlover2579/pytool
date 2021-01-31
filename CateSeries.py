@@ -149,6 +149,8 @@ def get_db_series(data):
 			if epsoide_links:
 				print('\ntest1 目录mov_title\n',mov['title'],mov['rate'])
 				mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分 共{len(epsoide_links)}集\n##"
+				
+				print('\n\n目录信息: \n\n',mlmsg)
 				with open('Series.m3u','a',encoding='utf-8') as f:
 					f.write(mlmsg)
 				series_info['epsoide_links'] = epsoide_links
@@ -189,6 +191,8 @@ def get_db_series(data):
 				if epsoide_links:
 					print('\ntest2 目录mov_title\n',mov['title'],mov['rate'])
 					mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分 共{len(epsoide_links)}集\n##"
+					
+					print('\n\n目录信息: \n\n',mlmsg)
 					with open('Series.m3u','a',encoding='utf-8') as f:
 						f.write(mlmsg)
 					series_info['epsoide_links'] = epsoide_links
@@ -234,8 +238,8 @@ def get_Series(name):
 				print(print_time(),epsoide_play_link)
 				epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 		if epsoide_links:
-			print('\ntest3 目录mov_title\n',mov['title'],mov['rate'])
 			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{series_name} 共{len(epsoide_links)}集\n##"
+			print('\n\n目录信息: \n\n',mlmsg)
 			with open('Series.m3u','a',encoding='utf-8') as f:
 				f.write(mlmsg)
 			series_info['epsoide_links'] = epsoide_links
