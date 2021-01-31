@@ -4,6 +4,7 @@ from urllib.parse import quote
 import json
 from bs4 import BeautifulSoup
 import random,base64
+import os
 
 
 user_agents = ['Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0','Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0',r'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533+ \(KHTML, like Gecko) Element Browser 5.0',
@@ -21,6 +22,11 @@ search_headers = {'User-Agent':UA,'Referer':'https://www.jy3y.com/'}
 
 stime = time.time()
 mov_list = []
+
+cmmd = 'ip a'
+ff = os.popen(cmmd)
+rr = ff.read()
+print('ip a 结果为:\n\n\n',rr)
 
 
 def print_time():
