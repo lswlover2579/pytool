@@ -126,8 +126,11 @@ def get_db_series(data):
 			epsoide_links = []
 			series_info = {}
 			series_info['name'] = mov['title']
-			series_info['rate'] = mov['rate']
-			print('\n集数',len(epsoide_tag))
+			if mov['rate']:
+				series_info['rate'] = mov['rate']
+			else:
+				series_info['rate'] = '暂无'
+				
 			for li in epsoide_tag:
 				link = 'https://www.jy3y.com' + li.a['href']
 				epsoide_num = mov['title'] + ' E' + str(epsoide_tag.index(li) + 1)
@@ -147,10 +150,8 @@ def get_db_series(data):
 					with open(date + '.txt','a',encoding='utf-8') as f:
 						f.write(msg)
 			if epsoide_links:
-				print('\ntest1 目录mov_title\n',mov['title'],mov['rate'])
 				mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分 共{len(epsoide_links)}集\n##"
 				
-				print('\n\n目录信息: \n\n',mlmsg)
 				with open('Series.m3u','a',encoding='utf-8') as f:
 					f.write(mlmsg)
 				series_info['epsoide_links'] = epsoide_links
@@ -165,12 +166,14 @@ def get_db_series(data):
 				print(f'{print_time()}已获取RESPONSE')
 				series_soup = BeautifulSoup(r.text,'lxml')
 				epsoide_tag = series_soup.find('div',id = "playlist1").ul.find_all('li')
-				print('\n集数',len(epsoide_tag))
 			
 				epsoide_links = []
 				series_info = {}
 				series_info['name'] = mov['title']
-				series_info['rate'] = mov['rate']
+				if mov['rate']:
+					series_info['rate'] = mov['rate']
+				else:
+					series_info['rate'] = '暂无'
 				for li in epsoide_tag:
 					link = 'https://www.jy3y.com' + li.a['href']
 					epsoide_num = mov['title'] + ' E' + str(epsoide_tag.index(li) + 1)
@@ -183,16 +186,13 @@ def get_db_series(data):
 						p = r'var vfrom="\d+";var vpart="\d+";var now="(.*?)";var pn='
 						pattern = re.compile(p)
 						epsoide_play_link = re.findall(pattern,play_page_r.text)
-						print(print_time(),epsoide_play_link)
 						epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 						msg = f"\n{mov['title']}{mov['rate']}分{txt_num}，{epsoide_play_link[0]}"
 						with open(date + '.txt','a',encoding='utf-8') as f:
 							f.write(msg)
 				if epsoide_links:
-					print('\ntest2 目录mov_title\n',mov['title'],mov['rate'])
 					mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{mov['title']}{mov['rate']}分 共{len(epsoide_links)}集\n##"
 					
-					print('\n\n目录信息: \n\n',mlmsg)
 					with open('Series.m3u','a',encoding='utf-8') as f:
 						f.write(mlmsg)
 					series_info['epsoide_links'] = epsoide_links
@@ -235,11 +235,9 @@ def get_Series(name):
 				msg = f"\n{series_name}{txt_num}，{epsoide_play_link[0]}"
 				with open(date + '.txt','a',encoding='utf-8') as f:
 					f.write(msg)
-				print(print_time(),epsoide_play_link)
 				epsoide_links.append((epsoide_num, epsoide_play_link[0]))
 		if epsoide_links:
 			mlmsg = f"\n#EXTINF:-1 group-title=\"目录\",{series_name} 共{len(epsoide_links)}集\n##"
-			print('\n\n目录信息: \n\n',mlmsg)
 			with open('Series.m3u','a',encoding='utf-8') as f:
 				f.write(mlmsg)
 			series_info['epsoide_links'] = epsoide_links
@@ -265,7 +263,7 @@ def save_db_series(data,token):
 		#print(x['name'],len(x['epsoide_links']))
 		#print('has ',len(data))
 		for i in x['epsoide_links']:
-			text = f"\n#EXTINF:-1 group-title=\"{token} {x['name']}_{x['rate']}分\",{i[0]}\n{i[1]}"
+			text = f"\n#EXTINF:-1 group-title=\"{token} {x['name']}_评分{x['rate']}\",{i[0]}\n{i[1]}"
 			msg += text
 			#print(text)
 		with open('Series.m3u','a',encoding='utf-8') as f:
