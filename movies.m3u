@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="喜剧",致命恋爱 【8.0⭐】
+https://youku.cdn29-okzy.com/20210202/17739_ec3b1a9a/index.m3u8
 #EXTINF:-1 group-title="喜剧",爵士春秋 【6.5⭐】
 https://iqiyi.cdn27-okzy.com/20210128/9167_2e6845bf/index.m3u8
 #EXTINF:-1 group-title="喜剧",富贵狂花 【9.0⭐】
@@ -203,8 +205,10 @@ https://iqiyi.cdn26-okzy.com/20200409/4868_7b298461/index.m3u8
 https://iqiyi.cdn26-okzy.com/20200409/4873_1ea68127/index.m3u8
 #EXTINF:-1 group-title="喜剧",山鸡变凤凰 【7.5⭐】
 https://iqiyi.cdn8-okzy.com/20200410/7419_b4181775/index.m3u8
-#EXTINF:-1 group-title="喜剧",专钓大鳄 【9.0⭐】
-https://iqiyi.cdn8-okzy.com/20200410/7483_65b7bd13/index.m3u8
+#EXTINF:-1 group-title="动作",关中刀客之愤操子 【7.0⭐】
+https://youku.cdn29-okzy.com/20210202/17733_76f681ed/index.m3u8
+#EXTINF:-1 group-title="动作",关中刀客之董二伯 【7.0⭐】
+https://youku.cdn29-okzy.com/20210201/17732_3af8659d/index.m3u8
 #EXTINF:-1 group-title="动作",七金刚 【9.0⭐】
 https://iqiyi.cdn27-okzy.com/20210201/9258_39fab876/index.m3u8
 #EXTINF:-1 group-title="动作",电脑奇侠重启 【8.3⭐】
@@ -401,16 +405,8 @@ https://cdn.youku-letv.net/20180209/Y90xh5dQ/index.m3u8
 https://youku.cdn10-okzy.com/20200330/13402_e1b4d111/index.m3u8
 #EXTINF:-1 group-title="动作",金印仇 【7.0⭐】
 https://youku.cdn10-okzy.com/20200330/13400_0d49cfcf/index.m3u8
-#EXTINF:-1 group-title="动作",剑女幽魂 【7.0⭐】
-https://youku.cdn10-okzy.com/20200330/13399_214a1d53/index.m3u8
-#EXTINF:-1 group-title="动作",力王之黑色擂台 【8.5⭐】
-https://youku.cdn10-okzy.com/20200330/13390_c925b3ad/index.m3u8
-#EXTINF:-1 group-title="动作",一个人的突击队 【9.0⭐】
-https://youku.cdn6-okzy.com/20200328/17831_0f4c784e/index.m3u8
-#EXTINF:-1 group-title="动作",假死新人生 【7.0⭐】
-https://youku.cdn6-okzy.com/20200328/17832_3a8319f8/index.m3u8
-#EXTINF:-1 group-title="动作",苍白骑士 【8.0⭐】
-https://youku.cdn6-okzy.com/20200330/18344_051fef42/index.m3u8
+#EXTINF:-1 group-title="爱情",致命恋爱 【8.0⭐】
+https://youku.cdn29-okzy.com/20210202/17739_ec3b1a9a/index.m3u8
 #EXTINF:-1 group-title="爱情",我的见鬼女友 【7.0⭐】
 https://iqiyi.cdn27-okzy.com/20210127/9153_7d474b61/index.m3u8
 #EXTINF:-1 group-title="爱情",出轨幻想 【7.0⭐】
@@ -583,5 +579,3 @@ https://youku.cdn10-okzy.com/20200318/13136_b17bf9d6/index.m3u8
 https://iqiyi.cdn25-okzy.com/20200315/583_23f13c4a/index.m3u8
 #EXTINF:-1 group-title="爱情",我爱厨房 【9.0⭐】
 https://youku.cdn10-okzy.com/20200316/13112_c98dbf83/index.m3u8
-#EXTINF:-1 group-title="爱情",女人如花 【7.0⭐】
-https://youku.cdn10-okzy.com/20200315/13102_d2df9d72/index.m3u8
