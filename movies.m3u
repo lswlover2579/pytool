@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="爱情",彩虹女神 【7.0⭐】
+https://iqiyi.cdn27-okzy.com/20210206/9407_98b40fb7/index.m3u8
 #EXTINF:-1 group-title="爱情",致命恋爱 【8.0⭐】
 https://youku.cdn29-okzy.com/20210202/17739_ec3b1a9a/index.m3u8
 #EXTINF:-1 group-title="爱情",我的见鬼女友 【7.0⭐】
-https://iqiyi.cdn27-okzy.com/20210127/9153_7d474b61/index.m3u8
+None
 #EXTINF:-1 group-title="爱情",出轨幻想 【7.0⭐】
 https://iqiyi.cdn27-okzy.com/20210122/9036_65305099/index.m3u8
 #EXTINF:-1 group-title="爱情",想要拥抱你 【8.0⭐】
@@ -167,8 +169,6 @@ https://youku.cdn5-okzy.com/20200322/18359_4c5d9e18/index.m3u8
 https://iqiyi.cdn26-okzy.com/20200319/3048_85485207/index.m3u8
 #EXTINF:-1 group-title="爱情",擒爱记 【6.5⭐】
 https://youku.cdn10-okzy.com/20200320/13168_05e91213/index.m3u8
-#EXTINF:-1 group-title="爱情",绯闻女生 【9.0⭐】
-https://youku.cdn10-okzy.com/20200318/13136_b17bf9d6/index.m3u8
 #EXTINF:-1 group-title="动作",关中刀客之愤操子 【7.0⭐】
 https://youku.cdn29-okzy.com/20210202/17733_76f681ed/index.m3u8
 #EXTINF:-1 group-title="动作",关中刀客之董二伯 【7.0⭐】
@@ -415,6 +415,8 @@ https://iqiyi.cdn27-okzy.com/20201211/8279_82e69019/index.m3u8
 https://iqiyi.cdn27-okzy.com/20201211/8292_0525dd3b/index.m3u8
 #EXTINF:-1 group-title="喜剧",说来有点可笑 【9.0⭐】
 https://iqiyi.cdn27-okzy.com/20201203/8170_27d473f2/index.m3u8
+#EXTINF:-1 group-title="喜剧",第一夫人的保镖 【6.5⭐】
+https://iqiyi.cdn27-okzy.com/20201202/8151_ada614ef/index.m3u8
 #EXTINF:-1 group-title="喜剧",大显神威 【8.0⭐】
 https://youku.cdn29-okzy.com/20201130/13199_5515183c/index.m3u8
 #EXTINF:-1 group-title="喜剧",这个高中没有鬼3 【9.0⭐】
@@ -537,8 +539,10 @@ https://iqiyi.com-iqiyicdn.com/20190923/2008_7a7a503c/index.m3u8
 https://youku.cdn10-okzy.com/20200418/14000_6a4b0e66/index.m3u8
 #EXTINF:-1 group-title="喜剧",邻家女孩 【8.4⭐】
 https://iqiyi.cdn25-okzy.com/20200416/3607_d554121b/index.m3u8
+#EXTINF:-1 group-title="喜剧",戒烟不戒酒 【7.0⭐】
+https://iqiyi.cdn25-okzy.com/20200416/3514_33441fa1/index.m3u8
 #EXTINF:-1 group-title="喜剧",大电影2.0：两个傻瓜的荒唐事 【6.5⭐】
-None
+https://youku.cdn7-okzy.com/20200416/18788_66fdce7f/index.m3u8
 #EXTINF:-1 group-title="喜剧",食梦者 【7.0⭐】
 https://youku.cdn7-okzy.com/20200416/18769_1f59c829/index.m3u8
 #EXTINF:-1 group-title="喜剧",大坏狐狸的故事 【7.3⭐】
