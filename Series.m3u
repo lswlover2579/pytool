@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="热门",你好，李焕英
+https://bilibili.xiang-kuyun.com/20210215/11581_edc20a8a/index.m3u8
+#EXTINF:-1 group-title="热门",唐人街探案3
+https://bilibili.xiang-kuyun.com/20210215/11582_e5549011/index.m3u8
+#EXTINF:-1 group-title="热门",侍神令
+https://bilibili.xiang-kuyun.com/20210215/11583_c5bfbf97/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="目录",山海情9.4分 共23集
 ##
 #EXTINF:-1 group-title="目录",旺达幻视9.0分 共4集
