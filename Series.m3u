@@ -3,21 +3,17 @@
 ##
 #EXTINF:-1 group-title="目录",山河令8.6分 共21集
 ##
-#EXTINF:-1 group-title="目录",今天开始契约恋爱7.4分 共4集
+#EXTINF:-1 group-title="目录",芝加哥警署 第八季8.9分 共7集
 ##
-#EXTINF:-1 group-title="目录",赛马娘 第二季9.0分 共10集
+#EXTINF:-1 group-title="目录",今天开始契约恋爱7.3分 共4集
+##
+#EXTINF:-1 group-title="目录",赛马娘 第二季9.1分 共10集
 ##
 #EXTINF:-1 group-title="目录",窥探8.7分 共2集
 ##
+#EXTINF:-1 group-title="目录",第二名的逆袭8.9分 共1集
+##
 #EXTINF:-1 group-title="目录",赘婿6.6分 共36集
-##
-#EXTINF:-1 group-title="目录",锦心似玉6.2分 共22集
-##
-#EXTINF:-1 group-title="目录",旺达幻视9.1分 共9集
-##
-#EXTINF:-1 group-title="目录",觉醒年代9.0分 共27集
-##
-#EXTINF:-1 group-title="目录",荣耀乒乓分 共8集
 ##
 #EXTINF:-1 group-title="热门 司藤_评分7.7",司藤 E1
 https://youku.cdn4-okzy.com/20210308/14417_234907d6/index.m3u8
@@ -77,38 +73,54 @@ https://youku.cdn4-okzy.com/20210309/14467_732cf9dc/index.m3u8
 https://youku.cdn4-okzy.com/20210309/14468_20be7d46/index.m3u8
 #EXTINF:-1 group-title="热门 山河令_评分8.6",山河令 E21
 https://youku.cdn4-okzy.com/20210309/14469_279c43cf/index.m3u8
-#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E1
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E1
+https://youku.cdn31-okzy.com/20201113/805_529c39de/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E2
+https://youku.cdn31-okzy.com/20201120/997_e719e1d8/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E3
+https://youku.cdn31-okzy.com/20210114/2909_74ed311b/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E4
+https://youku.cdn31-okzy.com/20210130/3321_6c2079e1/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E5
+https://youku.cdn31-okzy.com/20210207/3537_a9de5b58/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E6
+https://youku.cdn31-okzy.com/20210212/3644_c5f3c1d8/index.m3u8
+#EXTINF:-1 group-title="热门 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E7
+https://youku.cdn31-okzy.com/20210219/3845_ac28922f/index.m3u8
+#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E1
 https://pingmu.aa-zui.com/20210225/1933_39c13bbf/index.m3u8
-#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E2
+#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E2
 https://douban.donghongzuida.com/20210304/18807_45b9054f/index.m3u8
-#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E3
+#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E3
 https://douban.donghongzuida.com/20210304/18806_2ff0fbc0/index.m3u8
-#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E4
+#EXTINF:-1 group-title="热门 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E4
 https://douban.donghongzuida.com/20210309/19081_77cfa2b8/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E1
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E1
 https://yuledy.helanzuida.com/20210104/17712_1ce0cf20/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E2
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E2
 https://yuledy.helanzuida.com/20210111/18147_3de2d9f7/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E3
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E3
 https://yuledy.helanzuida.com/20210118/18628_07555bb9/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E4
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E4
 https://douban.donghongzuida.com/20210126/16431_2783aebf/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E5
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E5
 https://pingmu.aa-zui.com/20210201/275_ad251293/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E6
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E6
 https://douban.donghongzuida.com/20210208/17152_596f0751/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E7
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E7
 https://douban.donghongzuida.com/20210216/17507_f2ff313d/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E8
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E8
 https://douban.donghongzuida.com/20210223/17980_c086638a/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E9
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E9
 https://douban.donghongzuida.com/20210302/18527_e53c3337/index.m3u8
-#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.0",赛马娘 第二季 E10
+#EXTINF:-1 group-title="热门 赛马娘 第二季_评分9.1",赛马娘 第二季 E10
 https://pingmu.aa-zui.com/20210308/2792_85c702cd/index.m3u8
 #EXTINF:-1 group-title="热门 窥探_评分8.7",窥探 E1
 https://douban.donghongzuida.com/20210304/18743_e7a7dee7/index.m3u8
 #EXTINF:-1 group-title="热门 窥探_评分8.7",窥探 E2
 https://xigua-cdn.haima-zuida.com/20210304/20140_0e2af933/index.m3u8
+#EXTINF:-1 group-title="热门 第二名的逆袭_评分8.9",第二名的逆袭 E1
+https://youku.cdn31-okzy.com/20210305/4355_010b0d78/index.m3u8
 #EXTINF:-1 group-title="热门 赘婿_评分6.6",赘婿 E1
 https://youku.cdn2-okzy.com/20210214/13963_5107073c/index.m3u8
 #EXTINF:-1 group-title="热门 赘婿_评分6.6",赘婿 E2
@@ -181,155 +193,23 @@ https://youku.cdn4-okzy.com/20210303/14338_2568e121/index.m3u8
 https://youku.cdn4-okzy.com/20210303/14339_402a9ead/index.m3u8
 #EXTINF:-1 group-title="热门 赘婿_评分6.6",赘婿 E36
 https://youku.cdn4-okzy.com/20210303/14340_f40eb573/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E1
-https://youku.cdn2-okzy.com/20210226/14213_627ca580/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E2
-https://youku.cdn2-okzy.com/20210226/14214_9a506d17/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E3
-https://youku.cdn2-okzy.com/20210226/14215_ca9ee865/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E4
-https://youku.cdn2-okzy.com/20210226/14216_1c9cf097/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E5
-https://youku.cdn2-okzy.com/20210226/14217_d88191f7/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E6
-https://youku.cdn2-okzy.com/20210226/14218_4b66adcd/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E7
-https://youku.cdn2-okzy.com/20210226/14219_cfd2659a/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E8
-https://youku.cdn2-okzy.com/20210226/14220_9a4cb4d3/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E9
-https://youku.cdn2-okzy.com/20210227/14239_e8f37e38/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E10
-https://youku.cdn2-okzy.com/20210227/14240_28b18f6d/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E11
-https://youku.cdn2-okzy.com/20210228/14258_bdf73243/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E12
-https://youku.cdn2-okzy.com/20210228/14259_3eef90a8/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E13
-https://youku.cdn2-okzy.com/20210301/14270_d479e569/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E14
-https://youku.cdn2-okzy.com/20210301/14271_a0e4e0f6/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E15
-https://youku.cdn2-okzy.com/20210302/14284_65a15264/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E16
-https://youku.cdn2-okzy.com/20210302/14285_cb74eb59/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E17
-https://youku.cdn2-okzy.com/20210303/14309_65dbc270/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E18
-https://youku.cdn2-okzy.com/20210303/14310_8ae3db5b/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E19
-https://youku.cdn2-okzy.com/20210308/14350_1f34ff88/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E20
-https://youku.cdn2-okzy.com/20210308/14351_5b5ce360/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E21
-https://youku.cdn2-okzy.com/20210309/14365_7a135d1e/index.m3u8
-#EXTINF:-1 group-title="热门 锦心似玉_评分6.2",锦心似玉 E22
-https://youku.cdn2-okzy.com/20210309/14366_735bb5f0/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E1
-https://youku.cdn31-okzy.com/20210116/2955_972f4a23/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E2
-https://youku.cdn31-okzy.com/20210116/2956_9292309c/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E3
-https://youku.cdn31-okzy.com/20210123/3096_f2685b9f/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E4
-https://youku.cdn31-okzy.com/20210130/3306_51ec4687/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E5
-https://youku.cdn31-okzy.com/20210206/3498_26f011a3/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E6
-https://youku.cdn31-okzy.com/20210213/3652_7b712634/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E7
-https://youku.cdn31-okzy.com/20210220/3881_ffd70da3/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E8
-https://youku.cdn31-okzy.com/20210227/4133_e53876f2/index.m3u8
-#EXTINF:-1 group-title="热门 旺达幻视_评分9.1",旺达幻视 E9
-https://youku.cdn31-okzy.com/20210305/4339_dc920c9b/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E1
-https://iqiyi.cdn9-okzy.com/20210202/21810_93bca198/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E2
-https://iqiyi.cdn9-okzy.com/20210202/21811_0b46dbc3/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E3
-https://iqiyi.cdn9-okzy.com/20210202/21839_79de3501/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E4
-https://iqiyi.cdn9-okzy.com/20210202/21840_e225d280/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E5
-https://iqiyi.cdn9-okzy.com/20210203/21888_8b337791/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E6
-https://iqiyi.cdn9-okzy.com/20210205/21976_adfb5a96/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E7
-https://iqiyi.cdn9-okzy.com/20210208/22137_39ef55ae/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E8
-https://iqiyi.cdn9-okzy.com/20210208/22138_c7913085/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E9
-https://iqiyi.cdn9-okzy.com/20210209/22175_fb1f10a5/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E10
-https://iqiyi.cdn9-okzy.com/20210209/22176_a1529093/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E11
-https://iqiyi.cdn9-okzy.com/20210210/22206_da3330a1/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E12
-https://iqiyi.cdn9-okzy.com/20210210/22207_cf549d4a/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E13
-https://iqiyi.cdn9-okzy.com/20210215/22451_ee027559/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E14
-https://iqiyi.cdn9-okzy.com/20210215/22452_fc1f70fc/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E15
-https://iqiyi.cdn9-okzy.com/20210217/22544_c12f33c0/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E16
-https://iqiyi.cdn9-okzy.com/20210217/22543_8402ea00/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E17
-https://iqiyi.cdn9-okzy.com/20210227/22985_8e528a0f/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E18
-https://iqiyi.cdn9-okzy.com/20210228/23051_1c18b57f/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E19
-https://iqiyi.cdn9-okzy.com/20210301/23083_584afa72/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E20
-https://iqiyi.cdn9-okzy.com/20210302/23116_cd1e729c/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E21
-https://iqiyi.cdn9-okzy.com/20210303/23149_5ce5dc10/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E22
-https://iqiyi.cdn9-okzy.com/20210304/23190_81153de3/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E23
-https://iqiyi.cdn9-okzy.com/20210304/23191_d0a4cc63/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E24
-https://iqiyi.cdn9-okzy.com/20210305/23251_ff5e6585/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E25
-https://iqiyi.cdn9-okzy.com/20210305/23252_b9018d65/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E26
-https://iqiyi.cdn9-okzy.com/20210308/23385_9dd820ac/index.m3u8
-#EXTINF:-1 group-title="热门 觉醒年代_评分9.0",觉醒年代 E27
-https://iqiyi.cdn9-okzy.com/20210308/23386_a8a15c6e/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E1
-https://youku.cdn2-okzy.com/20210309/14357_1609996d/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E2
-https://youku.cdn2-okzy.com/20210309/14358_848ca291/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E3
-https://youku.cdn2-okzy.com/20210309/14359_5bf9ec46/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E4
-https://youku.cdn2-okzy.com/20210309/14360_6244f827/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E5
-https://youku.cdn2-okzy.com/20210309/14361_bb278bfb/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E6
-https://youku.cdn2-okzy.com/20210309/14362_96635e66/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E7
-https://youku.cdn2-okzy.com/20210309/14363_14c78e4a/index.m3u8
-#EXTINF:-1 group-title="热门 荣耀乒乓_评分暂无",荣耀乒乓 E8
-https://youku.cdn2-okzy.com/20210309/14364_457c5339/index.m3u8
 #EXTINF:-1 group-title="目录",旺达幻视9.1分 共9集
 ##
 #EXTINF:-1 group-title="目录",后翼弃兵9.0分 共7集
 ##
-#EXTINF:-1 group-title="目录",超人和露易斯 第一季8.3分 共2集
+#EXTINF:-1 group-title="目录",芝加哥警署 第八季8.9分 共7集
 ##
 #EXTINF:-1 group-title="目录",外星居民8.3分 共6集
 ##
-#EXTINF:-1 group-title="目录",王冠 第四季9.2分 共10集
+#EXTINF:-1 group-title="目录",超人和露易斯 第一季8.3分 共2集
 ##
-#EXTINF:-1 group-title="目录",紧急呼救 第四季9.2分 共1集
-##
-#EXTINF:-1 group-title="目录",良医 第四季7.4分 共10集
+#EXTINF:-1 group-title="目录",致命女人 第一季9.4分 共10集
 ##
 #EXTINF:-1 group-title="目录",小谢尔顿 第四季9.4分 共10集
 ##
-#EXTINF:-1 group-title="目录",老友记 第十季9.8分 共17集
+#EXTINF:-1 group-title="目录",紧急呼救 第四季9.2分 共1集
+##
+#EXTINF:-1 group-title="目录",爱，死亡和机器人 第一季9.2分 共18集
 ##
 #EXTINF:-1 group-title="美剧 旺达幻视_评分9.1",旺达幻视 E1
 https://youku.cdn31-okzy.com/20210116/2955_972f4a23/index.m3u8
@@ -363,10 +243,20 @@ https://youku.cdn31-okzy.com/20201028/331_d4006ce8/index.m3u8
 https://youku.cdn31-okzy.com/20201029/359_1fb7eeeb/index.m3u8
 #EXTINF:-1 group-title="美剧 后翼弃兵_评分9.0",后翼弃兵 E7
 https://youku.cdn31-okzy.com/20201029/358_6804143d/index.m3u8
-#EXTINF:-1 group-title="美剧 超人和露易斯 第一季_评分8.3",超人和露易斯 第一季 E1
-https://youku.cdn31-okzy.com/20210304/4291_84129e26/index.m3u8
-#EXTINF:-1 group-title="美剧 超人和露易斯 第一季_评分8.3",超人和露易斯 第一季 E2
-https://youku.cdn31-okzy.com/20210304/4293_e258baed/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E1
+https://youku.cdn31-okzy.com/20201113/805_529c39de/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E2
+https://youku.cdn31-okzy.com/20201120/997_e719e1d8/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E3
+https://youku.cdn31-okzy.com/20210114/2909_74ed311b/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E4
+https://youku.cdn31-okzy.com/20210130/3321_6c2079e1/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E5
+https://youku.cdn31-okzy.com/20210207/3537_a9de5b58/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E6
+https://youku.cdn31-okzy.com/20210212/3644_c5f3c1d8/index.m3u8
+#EXTINF:-1 group-title="美剧 芝加哥警署 第八季_评分8.9",芝加哥警署 第八季 E7
+https://youku.cdn31-okzy.com/20210219/3845_ac28922f/index.m3u8
 #EXTINF:-1 group-title="美剧 外星居民_评分8.3",外星居民 E1
 https://youku.cdn31-okzy.com/20210202/3415_b1ee923f/index.m3u8
 #EXTINF:-1 group-title="美剧 外星居民_评分8.3",外星居民 E2
@@ -379,48 +269,30 @@ https://youku.cdn31-okzy.com/20210219/3846_46352c4a/index.m3u8
 https://youku.cdn31-okzy.com/20210226/4101_7482f962/index.m3u8
 #EXTINF:-1 group-title="美剧 外星居民_评分8.3",外星居民 E6
 https://youku.cdn31-okzy.com/20210304/4313_d9a86f0f/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E1
-https://shuixian.nihaozuida.com/20201116/11994_705d860c/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E2
-https://shuixian.nihaozuida.com/20201116/11995_bf08e144/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E3
-https://shuixian.nihaozuida.com/20201116/11996_566f74bc/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E4
-https://shuixian.nihaozuida.com/20201116/11997_54dde129/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E5
-https://shuixian.nihaozuida.com/20201116/11998_bdbb7497/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E6
-https://shuixian.nihaozuida.com/20201116/11999_e8623391/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E7
-https://shuixian.nihaozuida.com/20201116/12000_c7c5ada7/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E8
-https://shuixian.nihaozuida.com/20201116/12001_65c40391/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E9
-https://shuixian.nihaozuida.com/20201116/12002_07fa9c7b/index.m3u8
-#EXTINF:-1 group-title="美剧 王冠 第四季_评分9.2",王冠 第四季 E10
-https://shuixian.nihaozuida.com/20201116/12003_d722780d/index.m3u8
-#EXTINF:-1 group-title="美剧 紧急呼救 第四季_评分9.2",紧急呼救 第四季 E1
-https://youku.cdn31-okzy.com/20210119/3028_dfd65b85/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E1
-https://shuixian.nihaozuida.com/20201103/11585_fd28924c/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E2
-https://shuixian.nihaozuida.com/20201111/11849_0fe2d0a8/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E3
-https://shuixian.nihaozuida.com/20201118/12082_720f3f4b/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E4
-https://shuixian.nihaozuida.com/20201125/12356_0a1dab73/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E5
-https://shuixian.nihaozuida.com/20201202/12626_b07c25f0/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E6
-https://shuixian.nihaozuida.com/20210113/15250_da9d7fda/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E7
-https://shuixian.nihaozuida.com/20210120/15601_30e8492c/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E8
-https://shuixian.nihaozuida.com/20210127/15866_ce34a38e/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E9
-https://shuixian.nihaozuida.com/20210217/16620_22770a02/index.m3u8
-#EXTINF:-1 group-title="美剧 良医 第四季_评分7.4",良医 第四季 E10
-https://shuixian.nihaozuida.com/20210224/16862_bf8a7adf/index.m3u8
+#EXTINF:-1 group-title="美剧 超人和露易斯 第一季_评分8.3",超人和露易斯 第一季 E1
+https://youku.cdn31-okzy.com/20210304/4291_84129e26/index.m3u8
+#EXTINF:-1 group-title="美剧 超人和露易斯 第一季_评分8.3",超人和露易斯 第一季 E2
+https://youku.cdn31-okzy.com/20210304/4293_e258baed/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E1
+https://wuji.zhulong-zuida.com/20190816/5654_c43f200e/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E2
+https://feifei.feifeizuida.com/20190822/16835_63a40df7/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E3
+https://wuji.zhulong-zuida.com/20190830/6980_1930e696/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E4
+https://feifei.feifeizuida.com/20190905/17494_0b6b7052/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E5
+https://feifei.feifeizuida.com/20190912/17844_fc2d2e7e/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E6
+https://feifei.feifeizuida.com/20190919/18189_abed10d9/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E7
+https://feifei.feifeizuida.com/20190926/18795_b6ce6b66/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E8
+https://feifei.feifeizuida.com/20191003/19158_3446dfbd/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E9
+https://wuji.zhulong-zuida.com/20191010/10587_e3b967b5/index.m3u8
+#EXTINF:-1 group-title="美剧 致命女人 第一季_评分9.4",致命女人 第一季 E10
+https://meng.wuyou-zuida.com/20191017/20284_3d76821f/index.m3u8
 #EXTINF:-1 group-title="美剧 小谢尔顿 第四季_评分9.4",小谢尔顿 第四季 E1
 https://shuixian.nihaozuida.com/20201107/11717_e4f90f2a/index.m3u8
 #EXTINF:-1 group-title="美剧 小谢尔顿 第四季_评分9.4",小谢尔顿 第四季 E2
@@ -441,53 +313,57 @@ https://shuixian.nihaozuida.com/20210220/16698_f1b4500c/index.m3u8
 https://shuixian.nihaozuida.com/20210226/17095_a055956c/index.m3u8
 #EXTINF:-1 group-title="美剧 小谢尔顿 第四季_评分9.4",小谢尔顿 第四季 E10
 https://shuixian.nihaozuida.com/20210305/17410_74f6f7cc/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E1
-https://bili.meijuzuida.com/20190202/1742_8b774d76/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E2
-https://bili.meijuzuida.com/20190202/1741_f05095e9/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E3
-https://bili.meijuzuida.com/20190202/1740_15ce41ea/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E4
-https://bili.meijuzuida.com/20190202/1739_751f8d29/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E5
-https://bili.meijuzuida.com/20190202/1738_482eac2c/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E6
-https://bili.meijuzuida.com/20190202/1737_31fe76d9/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E7
-https://bili.meijuzuida.com/20190202/1736_eebca5cf/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E8
-https://bili.meijuzuida.com/20190202/1735_1df0ade5/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E9
-https://bili.meijuzuida.com/20190202/1734_83d992e7/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E10
-https://bili.meijuzuida.com/20190202/1733_b41253ea/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E11
-https://bili.meijuzuida.com/20190202/1732_5892e01e/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E12
-https://bili.meijuzuida.com/20190202/1731_ad2ad344/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E13
-https://bili.meijuzuida.com/20190202/1730_3aca3a34/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E14
-https://bili.meijuzuida.com/20190202/1729_18c77705/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E15
-https://bili.meijuzuida.com/20190202/1728_14b48d04/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E16
-https://bili.meijuzuida.com/20190202/1727_3b6d34b5/index.m3u8
-#EXTINF:-1 group-title="美剧 老友记 第十季_评分9.8",老友记 第十季 E17
-https://bili.meijuzuida.com/20190202/1726_936bae39/index.m3u8
+#EXTINF:-1 group-title="美剧 紧急呼救 第四季_评分9.2",紧急呼救 第四季 E1
+https://youku.cdn31-okzy.com/20210119/3028_dfd65b85/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E1
+https://haoa.haozuida.com/20190315/ojMJiSF1/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E2
+https://haoa.haozuida.com/20190315/41JftTOX/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E3
+https://haoa.haozuida.com/20190315/7xwaltiK/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E4
+https://haoa.haozuida.com/20190315/Xa5eFoIp/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E5
+https://haoa.haozuida.com/20190315/KTpEPpMk/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E6
+https://haoa.haozuida.com/20190315/KRcT2tRD/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E7
+https://haoa.haozuida.com/20190315/VluOjQz8/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E8
+https://haoa.haozuida.com/20190315/6Z4aKuUW/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E9
+https://haoa.haozuida.com/20190315/ctDoYHJT/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E10
+https://haoa.haozuida.com/20190315/XGLRmDII/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E11
+https://haoa.haozuida.com/20190315/sfgTki2z/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E12
+https://haoa.haozuida.com/20190315/rYedidYQ/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E13
+https://haoa.haozuida.com/20190315/Zo5f0AQq/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E14
+https://haoa.haozuida.com/20190315/fZ14akal/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E15
+https://haoa.haozuida.com/20190315/vwk4oj2i/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E16
+https://haoa.haozuida.com/20190315/xVl8R0oP/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E17
+https://haoa.haozuida.com/20190315/dlxC6Q9H/index.m3u8
+#EXTINF:-1 group-title="美剧 爱，死亡和机器人 第一季_评分9.2",爱，死亡和机器人 第一季 E18
+https://haoa.haozuida.com/20190315/8LKD4vZQ/index.m3u8
 #EXTINF:-1 group-title="目录",她的双眼背后7.4分 共6集
 ##
 #EXTINF:-1 group-title="目录",浴血黑帮 第五季9.3分 共6集
-##
-#EXTINF:-1 group-title="目录",黑镜 第五季6.8分 共3集
 ##
 #EXTINF:-1 group-title="目录",性爱自修室 第二季9.1分 共8集
 ##
 #EXTINF:-1 group-title="目录",神探夏洛克 第四季8.6分 共3集
 ##
-#EXTINF:-1 group-title="目录",梅尔罗斯9.0分 共5集
+#EXTINF:-1 group-title="目录",黑镜 第五季6.8分 共3集
 ##
-#EXTINF:-1 group-title="目录",唐顿庄园 第六季9.3分 共8集
+#EXTINF:-1 group-title="目录",王冠 第四季9.2分 共10集
+##
+#EXTINF:-1 group-title="目录",梅尔罗斯9.0分 共5集
 ##
 #EXTINF:-1 group-title="英剧 她的双眼背后_评分7.4",她的双眼背后 E1
 https://youku.cdn31-okzy.com/20210221/3920_de0c34dd/index.m3u8
@@ -513,12 +389,6 @@ https://wuji.zhulong-zuida.com/20190909/7814_0c657410/index.m3u8
 https://wuji.zhulong-zuida.com/20190916/8463_c6e57712/index.m3u8
 #EXTINF:-1 group-title="英剧 浴血黑帮 第五季_评分9.3",浴血黑帮 第五季 E6
 https://feifei.feifeizuida.com/20190923/18385_a1900f7c/index.m3u8
-#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E1
-https://haoa.haozuida.com/20190605/vftsiycK/index.m3u8
-#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E2
-https://haoa.haozuida.com/20190605/mTiGkmvI/index.m3u8
-#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E3
-https://haoa.haozuida.com/20190605/75IxSwHF/index.m3u8
 #EXTINF:-1 group-title="英剧 性爱自修室 第二季_评分9.1",性爱自修室 第二季 E1
 https://youku.cdn1-okzy.com/20200118/11596_41b92e27/index.m3u8
 #EXTINF:-1 group-title="英剧 性爱自修室 第二季_评分9.1",性爱自修室 第二季 E2
@@ -541,6 +411,32 @@ https://haoa.haozuida.com/20171225/gtX5u91n/index.m3u8
 https://haoa.haozuida.com/20171225/QjD2G9Dq/index.m3u8
 #EXTINF:-1 group-title="英剧 神探夏洛克 第四季_评分8.6",神探夏洛克 第四季 E3
 https://haoa.haozuida.com/20171225/IP38dfkD/index.m3u8
+#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E1
+https://haoa.haozuida.com/20190605/vftsiycK/index.m3u8
+#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E2
+https://haoa.haozuida.com/20190605/mTiGkmvI/index.m3u8
+#EXTINF:-1 group-title="英剧 黑镜 第五季_评分6.8",黑镜 第五季 E3
+https://haoa.haozuida.com/20190605/75IxSwHF/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E1
+https://shuixian.nihaozuida.com/20201116/11994_705d860c/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E2
+https://shuixian.nihaozuida.com/20201116/11995_bf08e144/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E3
+https://shuixian.nihaozuida.com/20201116/11996_566f74bc/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E4
+https://shuixian.nihaozuida.com/20201116/11997_54dde129/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E5
+https://shuixian.nihaozuida.com/20201116/11998_bdbb7497/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E6
+https://shuixian.nihaozuida.com/20201116/11999_e8623391/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E7
+https://shuixian.nihaozuida.com/20201116/12000_c7c5ada7/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E8
+https://shuixian.nihaozuida.com/20201116/12001_65c40391/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E9
+https://shuixian.nihaozuida.com/20201116/12002_07fa9c7b/index.m3u8
+#EXTINF:-1 group-title="英剧 王冠 第四季_评分9.2",王冠 第四季 E10
+https://shuixian.nihaozuida.com/20201116/12003_d722780d/index.m3u8
 #EXTINF:-1 group-title="英剧 梅尔罗斯_评分9.0",梅尔罗斯 E1
 https://youku.cdn-56.com/20180513/2660_7f9916b6/index.m3u8
 #EXTINF:-1 group-title="英剧 梅尔罗斯_评分9.0",梅尔罗斯 E2
@@ -551,78 +447,48 @@ https://youku.cdn-56.com/20180527/3117_3bf40db4/index.m3u8
 https://youku.cdn-56.com/20180603/3327_e8722783/index.m3u8
 #EXTINF:-1 group-title="英剧 梅尔罗斯_评分9.0",梅尔罗斯 E5
 https://youku.cdn-56.com/20180611/3565_f75b7aa0/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E1
-https://yanzishan.shuhu-zuida.com/20190808/5590_8aec1bd3/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E2
-https://yanzishan.shuhu-zuida.com/20190808/5589_992f020b/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E3
-https://yanzishan.shuhu-zuida.com/20190808/5588_a35d2e71/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E4
-https://yanzishan.shuhu-zuida.com/20190808/5587_f82f3cdf/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E5
-https://yanzishan.shuhu-zuida.com/20190808/5586_27b81c2e/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E6
-https://yanzishan.shuhu-zuida.com/20190808/5585_08ab20ee/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E7
-https://yanzishan.shuhu-zuida.com/20190808/5584_a60fbac6/index.m3u8
-#EXTINF:-1 group-title="英剧 唐顿庄园 第六季_评分9.3",唐顿庄园 第六季 E8
-https://yanzishan.shuhu-zuida.com/20190808/5583_549ca6dd/index.m3u8
 #EXTINF:-1 group-title="目录",窥探8.7分 共2集
 ##
-#EXTINF:-1 group-title="目录",顶楼 第二季7.9分 共6集
+#EXTINF:-1 group-title="目录",今天开始契约恋爱7.3分 共4集
 ##
-#EXTINF:-1 group-title="目录",今天开始契约恋爱7.4分 共4集
-##
-#EXTINF:-1 group-title="目录",文森佐6.6分 共6集
+#EXTINF:-1 group-title="目录",顶楼 第二季7.8分 共6集
 ##
 #EXTINF:-1 group-title="目录",顶楼6.5分 共21集
 ##
 #EXTINF:-1 group-title="目录",请回答19889.7分 共40集
 ##
-#EXTINF:-1 group-title="目录",都市男女的爱情法则8.5分 共17集
-##
-#EXTINF:-1 group-title="目录",奔向爱情8.6分 共16集
+#EXTINF:-1 group-title="目录",文森佐6.6分 共6集
 ##
 #EXTINF:-1 group-title="目录",怪物7.9分 共6集
 ##
 #EXTINF:-1 group-title="目录",机智医生生活9.5分 共12集
 ##
+#EXTINF:-1 group-title="目录",奔向爱情8.6分 共16集
+##
 #EXTINF:-1 group-title="韩剧 窥探_评分8.7",窥探 E1
 https://douban.donghongzuida.com/20210304/18743_e7a7dee7/index.m3u8
 #EXTINF:-1 group-title="韩剧 窥探_评分8.7",窥探 E2
 https://xigua-cdn.haima-zuida.com/20210304/20140_0e2af933/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E1
-https://douban.donghongzuida.com/20210220/17829_b5ea59b5/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E2
-https://pingmu.aa-zui.com/20210220/1623_2335c475/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E3
-https://douban.donghongzuida.com/20210227/18378_87d8da41/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E4
-https://douban.donghongzuida.com/20210228/18421_ef17cf15/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E5
-https://douban.donghongzuida.com/20210306/18895_c8041bda/index.m3u8
-#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.9",顶楼 第二季 E6
-https://douban.donghongzuida.com/20210307/18953_6cb18e69/index.m3u8
-#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E1
+#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E1
 https://pingmu.aa-zui.com/20210225/1933_39c13bbf/index.m3u8
-#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E2
+#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E2
 https://douban.donghongzuida.com/20210304/18807_45b9054f/index.m3u8
-#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E3
+#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E3
 https://douban.donghongzuida.com/20210304/18806_2ff0fbc0/index.m3u8
-#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.4",今天开始契约恋爱 E4
+#EXTINF:-1 group-title="韩剧 今天开始契约恋爱_评分7.3",今天开始契约恋爱 E4
 https://douban.donghongzuida.com/20210309/19081_77cfa2b8/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E1
-https://pingmu.aa-zui.com/20210220/1630_d5c20d8c/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E2
-https://pingmu.aa-zui.com/20210221/1707_74e7081d/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E3
-https://douban.donghongzuida.com/20210228/18417_a0ec5f3b/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E4
-https://douban.donghongzuida.com/20210301/18456_47a8f1cc/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E5
-https://douban.donghongzuida.com/20210307/18949_dba4d041/index.m3u8
-#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E6
-https://douban.donghongzuida.com/20210308/19021_3d3872f3/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E1
+https://douban.donghongzuida.com/20210220/17829_b5ea59b5/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E2
+https://pingmu.aa-zui.com/20210220/1623_2335c475/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E3
+https://douban.donghongzuida.com/20210227/18378_87d8da41/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E4
+https://douban.donghongzuida.com/20210228/18421_ef17cf15/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E5
+https://douban.donghongzuida.com/20210306/18895_c8041bda/index.m3u8
+#EXTINF:-1 group-title="韩剧 顶楼 第二季_评分7.8",顶楼 第二季 E6
+https://douban.donghongzuida.com/20210307/18953_6cb18e69/index.m3u8
 #EXTINF:-1 group-title="韩剧 顶楼_评分6.5",顶楼 E1
 https://douban.donghongzuida.com/20201027/11608_4e946dd0/index.m3u8
 #EXTINF:-1 group-title="韩剧 顶楼_评分6.5",顶楼 E2
@@ -745,72 +611,18 @@ https://wanmei.xiaocong-zuida.com/20170918/v3gjaR1G/index.m3u8
 https://wanmei.xiaocong-zuida.com/20170925/7KbQw9ax/index.m3u8
 #EXTINF:-1 group-title="韩剧 请回答1988_评分9.7",请回答1988 E40
 https://wanmei.xiaocong-zuida.com/20170925/P36jRFqY/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E1
-https://youku.cdn31-okzy.com/20201223/2195_310ae64d/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E2
-https://youku.cdn31-okzy.com/20210102/2558_ce0dc33b/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E3
-https://youku.cdn31-okzy.com/20210102/2562_e1f058b4/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E4
-https://youku.cdn31-okzy.com/20210102/2563_4d27d7e6/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E5
-https://youku.cdn31-okzy.com/20210114/2898_95e05096/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E6
-https://youku.cdn31-okzy.com/20210114/2897_cdd200f3/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E7
-https://youku.cdn31-okzy.com/20210114/2896_0e53eb1a/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E8
-https://youku.cdn31-okzy.com/20210127/3236_c9419a59/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E9
-https://youku.cdn31-okzy.com/20210127/3239_a2ad40b5/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E10
-https://youku.cdn31-okzy.com/20210127/3237_8a4442c6/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E11
-https://youku.cdn31-okzy.com/20210127/3238_add9cef3/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E12
-https://youku.cdn31-okzy.com/20210207/3547_cc2ac64d/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E13
-https://youku.cdn31-okzy.com/20210207/3548_31ab68c6/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E14
-https://youku.cdn31-okzy.com/20210207/3549_51f58a37/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E15
-https://youku.cdn31-okzy.com/20210218/3838_bb836d26/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E16
-https://youku.cdn31-okzy.com/20210218/3839_4321bb87/index.m3u8
-#EXTINF:-1 group-title="韩剧 都市男女的爱情法则_评分8.5",都市男女的爱情法则 E17
-https://youku.cdn31-okzy.com/20210218/3837_c82e767b/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E1
-https://youku.cdn31-okzy.com/20201217/1941_4c37b6a4/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E2
-https://youku.cdn31-okzy.com/20201218/1993_b45ce3e3/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E3
-https://youku.cdn31-okzy.com/20201224/2264_c7049eca/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E4
-https://youku.cdn31-okzy.com/20201225/2308_77530235/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E5
-https://youku.cdn31-okzy.com/20201231/2485_237369b8/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E6
-https://youku.cdn31-okzy.com/20210107/2680_dd773c2d/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E7
-https://youku.cdn31-okzy.com/20210107/2682_d3aa4bc9/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E8
-https://youku.cdn31-okzy.com/20210108/2718_cc6a9713/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E9
-https://youku.cdn31-okzy.com/20210114/2893_576abca7/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E10
-https://youku.cdn31-okzy.com/20210115/2929_21a843e0/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E11
-https://youku.cdn31-okzy.com/20210121/3058_f0a9226d/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E12
-https://youku.cdn31-okzy.com/20210123/3071_42127603/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E13
-https://youku.cdn31-okzy.com/20210130/3304_fe426c40/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E14
-https://youku.cdn31-okzy.com/20210130/3303_328a9f52/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E15
-https://youku.cdn31-okzy.com/20210204/3447_06cd73fc/index.m3u8
-#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E16
-https://youku.cdn31-okzy.com/20210205/3479_7db733a0/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E1
+https://pingmu.aa-zui.com/20210220/1630_d5c20d8c/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E2
+https://pingmu.aa-zui.com/20210221/1707_74e7081d/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E3
+https://douban.donghongzuida.com/20210228/18417_a0ec5f3b/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E4
+https://douban.donghongzuida.com/20210301/18456_47a8f1cc/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E5
+https://douban.donghongzuida.com/20210307/18949_dba4d041/index.m3u8
+#EXTINF:-1 group-title="韩剧 文森佐_评分6.6",文森佐 E6
+https://douban.donghongzuida.com/20210308/19021_3d3872f3/index.m3u8
 #EXTINF:-1 group-title="韩剧 怪物_评分7.9",怪物 E1
 https://youku.cdn31-okzy.com/20210220/3882_402c4a4b/index.m3u8
 #EXTINF:-1 group-title="韩剧 怪物_评分7.9",怪物 E2
@@ -847,42 +659,60 @@ https://youku.cdn11-okzy.com/20200514/16410_72199619/index.m3u8
 https://youku.cdn11-okzy.com/20200521/16721_3af9b8cf/index.m3u8
 #EXTINF:-1 group-title="韩剧 机智医生生活_评分9.5",机智医生生活 E12
 https://youku.cdn11-okzy.com/20200528/16981_5abfb549/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E1
+https://youku.cdn31-okzy.com/20201217/1941_4c37b6a4/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E2
+https://youku.cdn31-okzy.com/20201218/1993_b45ce3e3/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E3
+https://youku.cdn31-okzy.com/20201224/2264_c7049eca/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E4
+https://youku.cdn31-okzy.com/20201225/2308_77530235/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E5
+https://youku.cdn31-okzy.com/20201231/2485_237369b8/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E6
+https://youku.cdn31-okzy.com/20210107/2680_dd773c2d/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E7
+https://youku.cdn31-okzy.com/20210107/2682_d3aa4bc9/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E8
+https://youku.cdn31-okzy.com/20210108/2718_cc6a9713/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E9
+https://youku.cdn31-okzy.com/20210114/2893_576abca7/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E10
+https://youku.cdn31-okzy.com/20210115/2929_21a843e0/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E11
+https://youku.cdn31-okzy.com/20210121/3058_f0a9226d/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E12
+https://youku.cdn31-okzy.com/20210123/3071_42127603/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E13
+https://youku.cdn31-okzy.com/20210130/3304_fe426c40/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E14
+https://youku.cdn31-okzy.com/20210130/3303_328a9f52/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E15
+https://youku.cdn31-okzy.com/20210204/3447_06cd73fc/index.m3u8
+#EXTINF:-1 group-title="韩剧 奔向爱情_评分8.6",奔向爱情 E16
+https://youku.cdn31-okzy.com/20210205/3479_7db733a0/index.m3u8
 #EXTINF:-1 group-title="目录",天国与地狱8.3分 共1集
 ##
-#EXTINF:-1 group-title="目录",我家的故事8.8分 共5集
-##
-#EXTINF:-1 group-title="目录",森林民宿8.5分 共6集
+#EXTINF:-1 group-title="目录",钱断情始9.0分 共4集
 ##
 #EXTINF:-1 group-title="目录",我的事说来话长9.0分 共10集
 ##
-#EXTINF:-1 group-title="目录",哦！我的老板！恋爱随书附赠7.4分 共8集
+#EXTINF:-1 group-title="目录",半泽直树9.2分 共10集
 ##
-#EXTINF:-1 group-title="目录",到了30岁还是处男，似乎会变成魔法师8.8分 共14集
+#EXTINF:-1 group-title="目录",哦！我的老板！恋爱随书附赠7.3分 共8集
+##
+#EXTINF:-1 group-title="目录",我家的故事8.8分 共5集
 ##
 #EXTINF:-1 group-title="日剧 天国与地狱_评分8.3",天国与地狱 E1
 https://youku.cdn7-okzy.com/20200418/18826_e66b6aef/index.m3u8
-#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E1
-https://youku.cdn31-okzy.com/20210124/3129_fad65f02/index.m3u8
-#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E2
-https://youku.cdn31-okzy.com/20210131/3349_14278d65/index.m3u8
-#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E3
-https://youku.cdn31-okzy.com/20210207/3550_5f61043a/index.m3u8
-#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E4
-https://youku.cdn31-okzy.com/20210214/3679_3b1c2ff0/index.m3u8
-#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E5
-https://youku.cdn31-okzy.com/20210221/3899_2570749b/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E1
-https://youku.cdn31-okzy.com/20210117/2975_0f2285e1/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E2
-https://youku.cdn31-okzy.com/20210124/3131_fdca23a3/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E3
-https://youku.cdn31-okzy.com/20210131/3346_9f64e962/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E4
-https://youku.cdn31-okzy.com/20210207/3551_b1d18fa4/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E5
-https://youku.cdn31-okzy.com/20210214/3681_d672524e/index.m3u8
-#EXTINF:-1 group-title="日剧 森林民宿_评分8.5",森林民宿 E6
-https://youku.cdn31-okzy.com/20210221/3896_6fe4988a/index.m3u8
+#EXTINF:-1 group-title="日剧 钱断情始_评分9.0",钱断情始 E1
+https://zk.sd-dykj.com/2020/10/07/CrXSqyWtDgJ26WSE/playlist.m3u8
+#EXTINF:-1 group-title="日剧 钱断情始_评分9.0",钱断情始 E2
+https://tv2.youkutv.cc/2020/09/30/2MpmQ6tmNPgTUsvs/playlist.m3u8
+#EXTINF:-1 group-title="日剧 钱断情始_评分9.0",钱断情始 E3
+https://zk.sd-dykj.com/2020/09/23/Bn9JeQnYBDkMkTQ5/playlist.m3u8
+#EXTINF:-1 group-title="日剧 钱断情始_评分9.0",钱断情始 E4
+https://zk.sd-dykj.com/2020/09/16/jju9ZXfg64qUQsdP/playlist.m3u8
 #EXTINF:-1 group-title="日剧 我的事说来话长_评分9.0",我的事说来话长 E1
 https://feifei.feifeizuida.com/20191013/19986_13b9e727/index.m3u8
 #EXTINF:-1 group-title="日剧 我的事说来话长_评分9.0",我的事说来话长 E2
@@ -903,50 +733,52 @@ https://meng.wuyou-zuida.com/20191201/23044_9dd85ab4/index.m3u8
 https://mei.huazuida.com/20191208/19003_b3830d96/index.m3u8
 #EXTINF:-1 group-title="日剧 我的事说来话长_评分9.0",我的事说来话长 E10
 https://hong.tianzhen-zuida.com/20191215/16156_5acca62f/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E1
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E1
+https://xigua-cdn.haima-zuida.com/20201012/15763_24d3a584/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E2
+https://xigua-cdn.haima-zuida.com/20201012/15762_555c889c/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E3
+https://xigua-cdn.haima-zuida.com/20201012/15761_4337a69e/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E4
+https://xigua-cdn.haima-zuida.com/20201012/15760_dab06b46/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E5
+https://xigua-cdn.haima-zuida.com/20201012/15759_55af63c2/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E6
+https://xigua-cdn.haima-zuida.com/20201012/15758_431f97c2/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E7
+https://xigua-cdn.haima-zuida.com/20201012/15757_5fa4c2d2/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E8
+https://xigua-cdn.haima-zuida.com/20201012/15756_decc9623/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E9
+https://xigua-cdn.haima-zuida.com/20201012/15755_455a62d6/index.m3u8
+#EXTINF:-1 group-title="日剧 半泽直树_评分9.2",半泽直树 E10
+https://xigua-cdn.haima-zuida.com/20201012/15754_e9bf7857/index.m3u8
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E1
 https://youku.cdn31-okzy.com/20210113/2879_49c8a1f8/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E2
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E2
 https://youku.cdn31-okzy.com/20210120/3049_af948edc/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E3
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E3
 https://youku.cdn31-okzy.com/20210127/3235_bd1dbf64/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E4
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E4
 https://youku.cdn31-okzy.com/20210212/3624_c3b5fa88/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E5
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E5
 https://youku.cdn31-okzy.com/20210212/3623_c19994e6/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E6
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E6
 https://youku.cdn31-okzy.com/20210218/3822_9dc50236/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E7
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E7
 https://youku.cdn31-okzy.com/20210304/4309_f970cee6/index.m3u8
-#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.4",哦！我的老板！恋爱随书附赠 E8
+#EXTINF:-1 group-title="日剧 哦！我的老板！恋爱随书附赠_评分7.3",哦！我的老板！恋爱随书附赠 E8
 https://youku.cdn31-okzy.com/20210304/4301_a971653e/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E1
-https://youku.cdn11-okzy.com/20201010/21410_c7c9be43/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E2
-https://youku.cdn11-okzy.com/20201016/21554_e14ad42c/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E3
-https://youku.cdn31-okzy.com/20201023/185_ff03a87f/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E4
-https://youku.cdn31-okzy.com/20201031/415_2057194d/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E5
-https://youku.cdn31-okzy.com/20201106/568_f50f98eb/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E6
-https://youku.cdn31-okzy.com/20201113/815_de19c1da/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E7
-https://youku.cdn31-okzy.com/20201120/1051_48af0f1c/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E8
-https://youku.cdn31-okzy.com/20201127/1291_8d60b8a7/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E9
-https://youku.cdn31-okzy.com/20201204/1483_fba235ae/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E10
-https://youku.cdn31-okzy.com/20201211/1742_a94dec13/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E11
-https://youku.cdn31-okzy.com/20201218/2007_15a933e8/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E12
-https://youku.cdn31-okzy.com/20201225/2336_ad7f44f1/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E13
-https://youku.cdn31-okzy.com/20201229/2437_ddf7b1b9/index.m3u8
-#EXTINF:-1 group-title="日剧 到了30岁还是处男，似乎会变成魔法师_评分8.8",到了30岁还是处男，似乎会变成魔法师 E14
-https://youku.cdn31-okzy.com/20201229/2436_0bc5f479/index.m3u8
+#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E1
+https://youku.cdn31-okzy.com/20210124/3129_fad65f02/index.m3u8
+#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E2
+https://youku.cdn31-okzy.com/20210131/3349_14278d65/index.m3u8
+#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E3
+https://youku.cdn31-okzy.com/20210207/3550_5f61043a/index.m3u8
+#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E4
+https://youku.cdn31-okzy.com/20210214/3679_3b1c2ff0/index.m3u8
+#EXTINF:-1 group-title="日剧 我家的故事_评分8.8",我家的故事 E5
+https://youku.cdn31-okzy.com/20210221/3899_2570749b/index.m3u8
 #EXTINF:-1 group-title="目录",司藤7.7分 共8集
 ##
 #EXTINF:-1 group-title="目录",山河令8.6分 共21集
@@ -1571,218 +1403,14 @@ https://iqiyi.cdn9-okzy.com/20210127/21505_44e65498/index.m3u8
 https://iqiyi.cdn9-okzy.com/20210127/21506_9746f3c6/index.m3u8
 #EXTINF:-1 group-title="国产剧 山海情_评分9.4",山海情 E23
 https://iqiyi.cdn9-okzy.com/20210127/21507_47716d3f/index.m3u8
-#EXTINF:-1 group-title="目录",神雕侠侣9.1分 共32集
-##
-#EXTINF:-1 group-title="目录",寻秦记8.5分 共40集
-##
-#EXTINF:-1 group-title="目录",他来自江湖8.1分 共30集
-##
 #EXTINF:-1 group-title="目录",大时代9.3分 共321集
 ##
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E1
-https://wanmei.xiaocong-zuida.com/20180309/WokG7JYv/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E2
-https://wanmei.xiaocong-zuida.com/20180309/7SoSbpZz/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E3
-https://wanmei.xiaocong-zuida.com/20180309/reebPUgs/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E4
-https://wanmei.xiaocong-zuida.com/20180309/vAQlwVoi/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E5
-https://wanmei.xiaocong-zuida.com/20180309/chFqOVTs/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E6
-https://wanmei.xiaocong-zuida.com/20180309/lLxPlBDx/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E7
-https://wanmei.xiaocong-zuida.com/20180309/Ikgu1eKU/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E8
-https://wanmei.xiaocong-zuida.com/20180309/neaz3f8x/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E9
-https://wanmei.xiaocong-zuida.com/20180309/uRdg2KXd/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E10
-https://wanmei.xiaocong-zuida.com/20180309/0zmPfT1J/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E11
-https://wanmei.xiaocong-zuida.com/20180309/JltFcyi4/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E12
-https://wanmei.xiaocong-zuida.com/20180309/Wg0EpUVH/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E13
-https://haoa.haozuida.com/20180309/IsKeiOij/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E14
-https://wanmei.xiaocong-zuida.com/20180309/HFhzqoJd/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E15
-https://wanmei.xiaocong-zuida.com/20180309/41tbRC4X/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E16
-https://yushou.qitu-zuida.com/20180309/JXxjspgp/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E17
-https://yushou.qitu-zuida.com/20180309/tQFt19hm/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E18
-https://yushou.qitu-zuida.com/20180309/54DFNECx/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E19
-https://yushou.qitu-zuida.com/20180309/nYK9PEG7/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E20
-https://yushou.qitu-zuida.com/20180309/eC9SxTAR/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E21
-https://yushou.qitu-zuida.com/20180309/iB7OLeVK/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E22
-https://yushou.qitu-zuida.com/20180309/PC2pjbqi/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E23
-https://yushou.qitu-zuida.com/20180309/m4TrBy7V/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E24
-https://yushou.qitu-zuida.com/20180309/QQCn12Lw/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E25
-https://yushou.qitu-zuida.com/20180309/Eet6RHdk/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E26
-https://yushou.qitu-zuida.com/20180309/Ofl935jd/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E27
-https://yushou.qitu-zuida.com/20180309/wOJhqd3P/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E28
-https://yushou.qitu-zuida.com/20180309/Gk9cXgCb/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E29
-https://yushou.qitu-zuida.com/20180309/UAYWfFnT/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E30
-https://haoa.haozuida.com/20180309/QsPba7MY/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E31
-https://haoa.haozuida.com/20180309/m3SL68CW/index.m3u8
-#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E32
-https://haoa.haozuida.com/20180309/ti05Kkmv/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E1
-https://bobo.okokbo.com/20180118/jtdF6X3Q/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E2
-https://bobo.okokbo.com/20180118/UNlG7LvM/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E3
-https://bobo.okokbo.com/20180118/oaiqAJ1Z/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E4
-https://bobo.okokbo.com/20180118/7oVAOyPR/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E5
-https://bobo.okokbo.com/20180118/I35wNJyy/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E6
-https://bobo.okokbo.com/20180118/vS6cFPZ8/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E7
-https://bobo.okokbo.com/20180118/VUD6Q0nf/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E8
-https://youku.cdn4-okzy.com/20200217/4494_cc96b792/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E9
-https://bobo.okokbo.com/20180125/65cp8Fmk/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E10
-https://bobo.okokbo.com/20180125/s6Jf0IFY/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E11
-https://bobo.okokbo.com/20180125/dsj3009w/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E12
-https://bobo.okokbo.com/20180125/P0lWcFCB/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E13
-https://bobo.okokbo.com/20180125/ZnfHSQ1d/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E14
-https://bobo.okokbo.com/20180125/R7EcYCEq/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E15
-https://bobo.okokbo.com/20180125/SGF0Z8bi/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E16
-https://bobo.okokbo.com/20180125/WX5Je68W/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E17
-https://bobo.okokbo.com/20180201/2QQ4p91D/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E18
-https://bobo.okokbo.com/20180201/C1e1w6rF/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E19
-https://bobo.okokbo.com/20180201/TrkdYNo3/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E20
-https://bobo.okokbo.com/20180201/KGvqMc6f/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E21
-https://bobo.okokbo.com/20180201/U8LKZOG8/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E22
-https://bobo.okokbo.com/20180201/XmnTvuzi/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E23
-https://bobo.okokbo.com/20180201/GBbZ5Z8m/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E24
-https://bobo.okokbo.com/20180201/3CyUQAlz/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E25
-https://bobo.okokbo.com/20180208/wCw1s8PO/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E26
-https://bobo.okokbo.com/20180208/HVOTwbDC/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E27
-https://bobo.okokbo.com/20180208/lBy0VV6X/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E28
-https://bobo.okokbo.com/20180208/iZF9DDua/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E29
-https://bobo.okokbo.com/20180208/WEbJg1wk/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E30
-https://bobo.okokbo.com/20180208/3B0NlqBU/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E31
-https://bobo.okokbo.com/20180208/Ua8du9ZK/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E32
-https://bobo.okokbo.com/20180208/sCbaVvNY/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E33
-https://bobo.okokbo.com/20180216/O072OOiU/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E34
-https://bobo.okokbo.com/20180216/QirW8yKS/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E35
-https://bobo.okokbo.com/20180216/pXSqXEOl/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E36
-https://bobo.okokbo.com/20180216/GDrIzrWB/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E37
-https://bobo.okokbo.com/20180216/Pqrk5wSO/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E38
-https://bobo.okokbo.com/20180216/ir79lkRp/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E39
-https://bobo.okokbo.com/20180216/YRymnGw8/index.m3u8
-#EXTINF:-1 group-title="港剧 寻秦记_评分8.5",寻秦记 E40
-https://bobo.okokbo.com/20180215/XqCFkEcv/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E1
-https://yi.jingdianzuida.com/20190904/7PMRK8PO/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E2
-https://yi.jingdianzuida.com/20190904/c9fGmEUW/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E3
-https://yi.jingdianzuida.com/20190904/yhTvCNo8/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E4
-https://yi.jingdianzuida.com/20190904/sIJmLsj4/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E5
-https://yi.jingdianzuida.com/20190904/ye5ka9Ac/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E6
-https://yi.jingdianzuida.com/20190904/Ry2aiPSk/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E7
-https://yi.jingdianzuida.com/20190904/eBj9mwyb/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E8
-https://yi.jingdianzuida.com/20190904/WwB3a3IC/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E9
-https://yi.jingdianzuida.com/20190904/DG1BpwJg/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E10
-https://yi.jingdianzuida.com/20190904/XdA1ysD9/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E11
-https://yi.jingdianzuida.com/20190904/JUAf4yfo/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E12
-https://yi.jingdianzuida.com/20190904/vZdUv2ih/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E13
-https://yi.jingdianzuida.com/20190904/57UxkSzJ/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E14
-https://yi.jingdianzuida.com/20190904/ZyXi2HsQ/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E15
-https://yi.jingdianzuida.com/20190904/DYXgmMZi/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E16
-https://yi.jingdianzuida.com/20190904/8sAo4pb1/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E17
-https://yi.jingdianzuida.com/20190904/ngK1M3Az/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E18
-https://yi.jingdianzuida.com/20190904/9TMBhUTK/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E19
-https://yi.jingdianzuida.com/20190904/9zXQLL4X/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E20
-https://yi.jingdianzuida.com/20190904/sCp0xSwx/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E21
-https://yi.jingdianzuida.com/20190904/9vKqF3UO/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E22
-https://yi.jingdianzuida.com/20190904/qZwWj6jd/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E23
-https://yi.jingdianzuida.com/20190904/pyDNWZVC/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E24
-https://yi.jingdianzuida.com/20190904/2euxVDh4/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E25
-https://yi.jingdianzuida.com/20190904/Ufr0tpsz/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E26
-https://yi.jingdianzuida.com/20190904/C7S2yX8H/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E27
-https://yi.jingdianzuida.com/20190904/fIgUrb7z/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E28
-https://yi.jingdianzuida.com/20190904/TXXRZZvY/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E29
-https://yi.jingdianzuida.com/20190904/MIl2d0xk/index.m3u8
-#EXTINF:-1 group-title="港剧 他来自江湖_评分8.1",他来自江湖 E30
-https://yi.jingdianzuida.com/20190904/FVBBTkA2/index.m3u8
+#EXTINF:-1 group-title="目录",神雕侠侣9.1分 共32集
+##
+#EXTINF:-1 group-title="目录",鹿鼎记8.9分 共2集
+##
+#EXTINF:-1 group-title="目录",法证先锋8.6分 共25集
+##
 #EXTINF:-1 group-title="港剧 大时代_评分9.3",大时代 E1
 https://youku.cdn-56.com/20180711/4469_3f487e08/index.m3u8
 #EXTINF:-1 group-title="港剧 大时代_评分9.3",大时代 E2
@@ -2425,9 +2053,127 @@ https://youku.com-ok-ifeng.com/20190924/2566_7a180d67/index.m3u8
 https://youku.com-ok-ifeng.com/20190925/2578_21946f22/index.m3u8
 #EXTINF:-1 group-title="港剧 大时代_评分9.3",大时代 E321
 https://youku.com-ok-ifeng.com/20190926/2619_db503297/index.m3u8
-#EXTINF:-1 group-title="目录",咒术回战9.2分 共9集
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E1
+https://wanmei.xiaocong-zuida.com/20180309/WokG7JYv/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E2
+https://wanmei.xiaocong-zuida.com/20180309/7SoSbpZz/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E3
+https://wanmei.xiaocong-zuida.com/20180309/reebPUgs/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E4
+https://wanmei.xiaocong-zuida.com/20180309/vAQlwVoi/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E5
+https://wanmei.xiaocong-zuida.com/20180309/chFqOVTs/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E6
+https://wanmei.xiaocong-zuida.com/20180309/lLxPlBDx/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E7
+https://wanmei.xiaocong-zuida.com/20180309/Ikgu1eKU/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E8
+https://wanmei.xiaocong-zuida.com/20180309/neaz3f8x/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E9
+https://wanmei.xiaocong-zuida.com/20180309/uRdg2KXd/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E10
+https://wanmei.xiaocong-zuida.com/20180309/0zmPfT1J/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E11
+https://wanmei.xiaocong-zuida.com/20180309/JltFcyi4/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E12
+https://wanmei.xiaocong-zuida.com/20180309/Wg0EpUVH/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E13
+https://haoa.haozuida.com/20180309/IsKeiOij/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E14
+https://wanmei.xiaocong-zuida.com/20180309/HFhzqoJd/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E15
+https://wanmei.xiaocong-zuida.com/20180309/41tbRC4X/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E16
+https://yushou.qitu-zuida.com/20180309/JXxjspgp/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E17
+https://yushou.qitu-zuida.com/20180309/tQFt19hm/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E18
+https://yushou.qitu-zuida.com/20180309/54DFNECx/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E19
+https://yushou.qitu-zuida.com/20180309/nYK9PEG7/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E20
+https://yushou.qitu-zuida.com/20180309/eC9SxTAR/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E21
+https://yushou.qitu-zuida.com/20180309/iB7OLeVK/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E22
+https://yushou.qitu-zuida.com/20180309/PC2pjbqi/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E23
+https://yushou.qitu-zuida.com/20180309/m4TrBy7V/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E24
+https://yushou.qitu-zuida.com/20180309/QQCn12Lw/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E25
+https://yushou.qitu-zuida.com/20180309/Eet6RHdk/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E26
+https://yushou.qitu-zuida.com/20180309/Ofl935jd/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E27
+https://yushou.qitu-zuida.com/20180309/wOJhqd3P/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E28
+https://yushou.qitu-zuida.com/20180309/Gk9cXgCb/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E29
+https://yushou.qitu-zuida.com/20180309/UAYWfFnT/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E30
+https://haoa.haozuida.com/20180309/QsPba7MY/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E31
+https://haoa.haozuida.com/20180309/m3SL68CW/index.m3u8
+#EXTINF:-1 group-title="港剧 神雕侠侣_评分9.1",神雕侠侣 E32
+https://haoa.haozuida.com/20180309/ti05Kkmv/index.m3u8
+#EXTINF:-1 group-title="港剧 鹿鼎记_评分8.9",鹿鼎记 E1
+https://yi.jingdianzuida.com/20190904/lH0S1gY5/index.m3u8
+#EXTINF:-1 group-title="港剧 鹿鼎记_评分8.9",鹿鼎记 E2
+https://yi.jingdianzuida.com/20190904/oBkk174X/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E1
+https://feifei.feifeizuida.com/20181110/357_dd69c92b/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E2
+https://feifei.feifeizuida.com/20181110/356_853c1347/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E3
+https://feifei.feifeizuida.com/20181110/355_db8c096d/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E4
+https://feifei.feifeizuida.com/20181110/354_fc3ea117/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E5
+https://feifei.feifeizuida.com/20181110/353_c9ca3575/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E6
+https://feifei.feifeizuida.com/20181110/352_bdff4c7e/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E7
+https://feifei.feifeizuida.com/20181110/351_361efbc1/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E8
+https://feifei.feifeizuida.com/20181110/350_3c86acd5/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E9
+https://feifei.feifeizuida.com/20181110/349_977692bf/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E10
+https://feifei.feifeizuida.com/20181110/348_b0532c8c/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E11
+https://feifei.feifeizuida.com/20181110/347_485670c9/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E12
+https://feifei.feifeizuida.com/20181110/346_871e42a3/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E13
+https://yushou.qitu-zuida.com/20181110/20313_3e2ca24c/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E14
+https://yushou.qitu-zuida.com/20181110/20312_221ed7de/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E15
+https://yushou.qitu-zuida.com/20181110/20311_fc72d169/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E16
+https://yushou.qitu-zuida.com/20181110/20310_e4687ebb/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E17
+https://yushou.qitu-zuida.com/20181110/20309_fb64159a/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E18
+https://yushou.qitu-zuida.com/20181110/20308_c9f7bf32/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E19
+https://yushou.qitu-zuida.com/20181110/20307_b2f927d9/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E20
+https://yushou.qitu-zuida.com/20181110/20306_f5c1fc3a/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E21
+https://yushou.qitu-zuida.com/20181110/20305_8d6dabbd/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E22
+https://yushou.qitu-zuida.com/20181110/20304_a4b81991/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E23
+https://yushou.qitu-zuida.com/20181110/20303_78d16b7a/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E24
+https://yushou.qitu-zuida.com/20181110/20302_9dd79163/index.m3u8
+#EXTINF:-1 group-title="港剧 法证先锋_评分8.6",法证先锋 E25
+https://yushou.qitu-zuida.com/20181110/20301_dc270ab5/index.m3u8
+#EXTINF:-1 group-title="目录",咒术回战9.1分 共9集
 ##
-#EXTINF:-1 group-title="目录",赛马娘 第二季9.0分 共10集
+#EXTINF:-1 group-title="目录",赛马娘 第二季9.1分 共10集
 ##
 #EXTINF:-1 group-title="目录",堀与宫村9.1分 共3集
 ##
@@ -2437,45 +2183,45 @@ https://youku.com-ok-ifeng.com/20190926/2619_db503297/index.m3u8
 ##
 #EXTINF:-1 group-title="目录",奇蛋物语9.2分 共8集
 ##
-#EXTINF:-1 group-title="目录",海贼王9.5分 共117集
+#EXTINF:-1 group-title="目录",工作细胞 第二季9.0分 共8集
 ##
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E1
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E1
 https://209zy.youkutv.cc/2020/11/28/l8eOXuS9y9ESmrKI/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E2
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E2
 https://209zy.youkutv.cc/2020/11/21/iou0qMSgvyvMDnDA/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E3
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E3
 https://209zy.youkutv.cc/2020/11/14/dzlVFjpwRe8BwZHt/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E4
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E4
 https://209zy.youkutv.cc/2020/11/07/WPBd5k4AmcUzIf8q/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E5
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E5
 https://209zy.youkutv.cc/2020/11/07/y0aZb3oYg2hBQ4pE/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E6
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E6
 https://zk2.cdt-md.com/2020/10/24/TbnJOKEaIvdPFbzO/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E7
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E7
 https://zk.sd-dykj.com/2020/10/11/RnFY3tpZ6MueMCFN/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E8
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E8
 https://zk.sd-dykj.com/2020/10/10/CpWn0eyshckzqeqo/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 咒术回战_评分9.2",咒术回战 E9
+#EXTINF:-1 group-title="日本动画 咒术回战_评分9.1",咒术回战 E9
 https://zk.sd-dykj.com/2020/09/26/JHTL4aKs0Le9mlxl/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E1
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E1
 https://yuledy.helanzuida.com/20210104/17712_1ce0cf20/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E2
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E2
 https://yuledy.helanzuida.com/20210111/18147_3de2d9f7/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E3
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E3
 https://yuledy.helanzuida.com/20210118/18628_07555bb9/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E4
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E4
 https://douban.donghongzuida.com/20210126/16431_2783aebf/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E5
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E5
 https://pingmu.aa-zui.com/20210201/275_ad251293/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E6
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E6
 https://douban.donghongzuida.com/20210208/17152_596f0751/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E7
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E7
 https://douban.donghongzuida.com/20210216/17507_f2ff313d/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E8
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E8
 https://douban.donghongzuida.com/20210223/17980_c086638a/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E9
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E9
 https://douban.donghongzuida.com/20210302/18527_e53c3337/index.m3u8
-#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.0",赛马娘 第二季 E10
+#EXTINF:-1 group-title="日本动画 赛马娘 第二季_评分9.1",赛马娘 第二季 E10
 https://pingmu.aa-zui.com/20210308/2792_85c702cd/index.m3u8
 #EXTINF:-1 group-title="日本动画 堀与宫村_评分9.1",堀与宫村 E1
 https://youku.cdn31-okzy.com/20210217/3815_769ee226/index.m3u8
@@ -2569,257 +2315,37 @@ https://douban.donghongzuida.com/20210217/17570_f0adf3ed/index.m3u8
 https://douban.donghongzuida.com/20210224/18094_0bc11e3d/index.m3u8
 #EXTINF:-1 group-title="日本动画 奇蛋物语_评分9.2",奇蛋物语 E8
 https://pingmu.aa-zui.com/20210302/2271_d4de3c70/index.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E1
-https://209zy.youkutv.cc/2020/11/29/eEIjV7oqlb1UOoYa/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E2
-https://209zy.youkutv.cc/2020/11/22/qCslfZcAoyZ2w0S4/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E3
-https://zk.sd-dykj.com/2020/11/15/rxDnaicUJlQSQguU/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E4
-https://209zy.youkutv.cc/2020/11/08/lMRCUtC8gweUFV9y/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E5
-https://209zy.youkutv.cc/2020/11/01/pYteKzp1RPdNsan0/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E6
-https://209zy.youkutv.cc/2020/10/25/cY8ritRwgpfJRSjU/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E7
-https://209zy.youkutv.cc/2020/10/18/TzU9U9Xsipi0fZCG/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E8
-https://zk.sd-dykj.com/2020/10/11/FMmFf24DZEyjmA8w/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E9
-https://tv2.youkutv.cc/2020/10/04/TxFYIqfDWnMmi5hY/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E10
-https://zk.sd-dykj.com/2020/09/27/w9DHwQhMMbLRerbO/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E11
-https://zk.sd-dykj.com/2020/09/20/GcXAZGytBUfSPI4p/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E12
-https://zk.sd-dykj.com/2020/09/13/Hmr1qFWQSYvrsCZU/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E13
-https://zk.sd-dykj.com/2020/09/06/hZbz2M0AasC9CvsZ/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E14
-https://zk.sd-dykj.com/2020/08/30/uaBKCiYvQQeKhdjV/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E15
-https://zk2.cdt-md.com/2020/08/23/txtX0k27vovCltHy/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E16
-https://zk.sd-dykj.com/2020/08/16/C7CAldH9tUTii2g6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E17
-https://zk.sd-dykj.com/2020/08/09/SmJxksLb8KTkb5jA/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E18
-https://zk2.cdt-md.com/2020/08/02/2ZgLjj8WpK7HKqwv/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E19
-https://tv2.youkutv.cc/2020/07/26/WNESnlcnNrb6cS85/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E20
-https://zk2.cdt-md.com/2020/07/19/luKJtKIJEg7Tuh2H/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E21
-https://zk2.cdt-md.com/2020/07/12/q7hGzrvuE0oTfqOa/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E22
-https://zk.sd-dykj.com/2020/07/05/KWtMnfy7zgj1pgVm/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E23
-https://zk.sd-dykj.com/2020/06/28/elN9k3mohBWopecc/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E24
-https://zk2.cdt-md.com/2020/04/19/wWqrJOr0PQSbgu8w/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E25
-https://zk2.cdt-md.com/2020/04/12/HbzIq69qoyjBk2jQ/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E26
-https://zk2.cdt-md.com/2020/04/05/cf2XgW44xfbl9U7g/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E27
-https://zk2.cdt-md.com/2020/03/29/NFSj7OUARNcxjRQm/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E28
-https://zk2.cdt-md.com/2020/03/21/MruoN7kLzxMxY4ng/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E29
-https://zk2.cdt-md.com/2020/03/15/wMKsqE49vQrLWAHW/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E30
-https://zk2.cdt-md.com/2020/02/23/KXAPxReithC90bfH/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E31
-https://zk2.cdt-md.com/2020/02/16/SPFjUigcReKrJpOv/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E32
-https://zk2.cdt-md.com/2020/02/09/N68DdDGZLsEPYCuC/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E33
-https://zk2.cdt-md.com/2020/02/02/8GHXNaFPooIqskhc/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E34
-https://zk2.cdt-md.com/2020/01/26/OrxEeUcm2W4p3asH/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E35
-https://zuikzy.win7i.com/2020/01/19/7cEOGD1gPMbCObD6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E36
-https://zk2.603ee.com/2020/01/12/N3WIk9JkgmcbgtOO/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E37
-https://zuikzy.win7i.com/2020/01/05/OifUCdJULe2In0pU/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E38
-https://zk1.603ee.com/2019/12/22/YKJ037VRfvusYWVP/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E39
-https://zk1.603ee.com/2019/12/15/CbtKdHREDXh2Yvqv/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E40
-https://zk1.603ee.com/2019/12/08/OSpuBkubO5OCYW73/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E41
-https://zk1.603ee.com/2019/12/01/oGu5ZWIX5eno974S/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E42
-https://zk1.603ee.com/2019/11/24/HB7pz4xH5jsXxwRe/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E43
-https://zk1.603ee.com/2019/11/17/sgLY5IN31vn5QYoF/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E44
-https://zk1.603ee.com/2019/11/10/ZXNjqfriQpM10RV4/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E45
-https://zk1.603ee.com/2019/10/27/AzVusoKQvchSD6eX/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E46
-https://zk1.603ee.com/2019/10/20/WNvlTqaQUFNSbPl4/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E47
-https://zk1.603ee.com/2019/10/13/DgN0QBxffxdEU34u/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E48
-https://zk1.603ee.com/2019/10/06/sAVygPfgSlQ0jPU8/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E49
-https://gnzk.yiya520.com/2019/09/29/q1wi15VA7xYnOgbJ/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E50
-https://zk.603ee.com/2019/09/22/ybdWbvofdPevIBkw/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E51
-https://zk.603ee.com/2019/09/15/C4ELr2u6AW8RADwE/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E52
-https://zk.603ee.com/2019/09/08/HiUJH3BT5fnj40eP/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E53
-https://zk.603ee.com/2019/09/01/U3M11FA2QxK4NpOd/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E54
-https://zk.603ee.com/2019/08/25/GWvRqdLYWBacE9xO/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E55
-https://zk.603ee.com/2019/08/18/TvRW2GsnwKHc3uQd/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E56
-https://zk.603ee.com/2019/08/11/43gmebPotsbxPyhK/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E57
-https://zk.603ee.com/2019/08/04/QQB1sq8WUIVw3XrU/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E58
-https://zk.603ee.com/2019/07/28/w5XDlSq7OZhIqjXj/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E59
-https://zk.603ee.com/2019/07/21/pM8cHZuNTweungv7/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E60
-https://zk.603ee.com/2019/07/14/ECt7zlQtULzG5adM/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E61
-https://zk.603ee.com/2019/07/07/F9TrC7U26oIosA7E/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E62
-https://zk.603ee.com/2019/06/30/yc244iWN59pkaY6A/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E63
-https://zk.603ee.com/2019/06/23/29fDFcf5YQqqXmII/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E64
-https://zk.603ee.com/2019/06/16/Txl1Bqrvya72yjDm/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E65
-https://zk.yiya520.com/2019/06/09/cKc3Hf6jKEtf0nBY/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E66
-https://zuikzy.603ee.com/2019/06/02/EveCkV80URDIzneH/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E67
-https://zuikzy.603ee.com/2019/05/26/oClrrXCyYa6PIrQE/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E68
-https://zuikzy.603ee.com/2019/05/19/raKcy0yCqqod86V7/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E69
-https://zuikzy.603ee.com/2019/05/12/Cm9F4nq5kE0pJEv1/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E70
-https://zuikzy.603ee.com/2019/05/07/7i5PSMDPu14PDW0s/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E71
-https://zuikzy.603ee.com/2019/04/28/rDYhcsh5u8qFVgyu/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E72
-https://zuikzy.603ee.com/2019/04/21/uQUQ10YcNBbdzG8Q/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E73
-https://zuikzy.603ee.com/2019/04/14/Abdyu7qtNnKwxXGk/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E74
-https://zuikzy.603ee.com/2019/04/07/xOUwbXHd80JWvOh5/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E75
-https://zuikzy.603ee.com/2019/03/31/k84N4UVv6JPbgCnl/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E76
-https://zuikzy.603ee.com/2019/03/24/Ae16SgEW1lTvsgrC/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E77
-https://zk.yiya520.com/2019/03/17/rrIMdXBUrwYypNF6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E78
-https://zk.yiya520.com/2019/03/03/6O2kwZfs866NUdDX/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E79
-https://zk.yiya520.com/2019/02/24/zE6aQQ2CrGUXo8oo/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E80
-https://zk.yiya520.com/2019/02/17/LPEEWbcdZ6G3c7D4/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E81
-https://zk.yiya520.com/2019/02/10/MtTDw8CiYitNliL6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E82
-https://zuikzy.51moca.com/2019/02/03/XExkEkfa6VTb8tXP/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E83
-https://zuikzy.51moca.com/2019/01/27/fAHtqfO1iZPjeitD/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E84
-https://zuikzy.51moca.com/2019/01/20/3gDOAQLkQYpafWpA/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E85
-https://zkcdn.yiya520.com/2019/01/13/3WEj2Y7Q5gkbPPwN/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E86
-https://zkcdn.yiya520.com/2019/01/06/AtM1G1037Hr6k9NF/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E87
-https://zkcdn.yiya520.com/2018/12/23/aFngOxrwifRvdkQZ/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E88
-https://zkcdn.yiya520.com/2018/12/16/2sre6KYRW79cypUC/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E89
-https://zkcdn.yiya520.com/2018/12/09/K4Hlxp5KA3lztrMH/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E90
-https://zuikzy.51moca.com/2018/11/25/b6APSFm0qIcFd2Po/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E91
-https://zkcdn.yiya520.com/2018/11/18/nEComxRYWYS4lh1U/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E92
-https://zkcdn.yiya520.com/2018/11/11/5O55uCEtQ8KA01Aq/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E93
-https://zkcdn.yiya520.com/2018/11/04/uNeBdvAXm8WfQCWi/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E94
-https://zkcdn.yiya520.com/2018/10/28/FtCI02OzmukYHTf6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E95
-https://zkcdn.yiya520.com/2018/10/21/Ya4o6qLHHN16osTM/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E96
-https://zkcdn.yiya520.com/2018/10/14/zbwFfvb6DXSbE3kt/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E97
-https://zkcdn.yiya520.com/2018/10/07/ynLx9FDYEfRYKV7i/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E98
-https://zkcdn.yiya520.com/2018/09/30/oYYoEa99VTw5OauO/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E99
-https://zkgn.yiya520.com/2018/09/23/JsCDyjRJaS3QubST/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E100
-https://zkgn.yiya520.com/2018/09/16/vewGff2p2pYVWHOG/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E101
-https://zkgn.yiya520.com/2018/09/02/WPkGTOFwFZtZkKZ3/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E102
-https://gncdn.yiya520.com/20180826/l70ACrSC/index.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E103
-https://gncdn.yiya520.com/20180823/9TXHCf6R/index.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E104
-https://zuikzy.win7i.com/2018/08/12/2jaLYpu0xmKphVny/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E105
-https://zkgn.yiya520.com/2018/08/06/TFp1FRfrQpfHH2j6/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E106
-https://zkgn.yiya520.com/2018/07/29/E3o2atWuSsofPJY7/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E107
-https://zkgn.yiya520.com/2018/07/22/srMAaO4zsqo3vZpQ/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E108
-https://zkgn.yiya520.com/2018/07/15/kD9sXdGnmCbWH80q/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E109
-https://zkgn.yiya520.com/2018/07/08/Pi5h451fsTB4ulG8/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E110
-https://zkgn.yiya520.com/2018/07/01/1Mli6JIKGwjk64IR/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E111
-https://zkgn.yiya520.com/2018/06/24/EoLqUDbWjgh9180z/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E112
-https://zkgn.yiya520.com/2018/06/17/r9hykzvKeoankTKN/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E113
-https://zuikzy.win7i.com/2018/06/10/BIbrsQGm3hnCjQFs/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E114
-https://zuikzy.win7i.com/2018/06/03/Q3kk7wzFG2y4Zc8V/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E115
-https://zuikzy.win7i.com/2018/05/27/ABE45jz9DB2uCWMp/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E116
-https://zuikzy.win7i.com/2018/05/20/9TSSzASI9vZ2z6s0/playlist.m3u8
-#EXTINF:-1 group-title="日本动画 海贼王_评分9.5",海贼王 E117
-https://gncdn.yiya520.com/20180513/sTCQMDFs/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E1
+https://iqiyi.cdn9-okzy.com/20210110/20653_8b189dda/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E2
+https://iqiyi.cdn9-okzy.com/20210117/20965_b31e5b18/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E3
+https://iqiyi.cdn9-okzy.com/20210124/21339_540cbc10/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E4
+https://iqiyi.cdn9-okzy.com/20210131/21715_55b1c73c/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E5
+https://iqiyi.cdn9-okzy.com/20210207/22063_1a1d9a85/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E6
+https://iqiyi.cdn9-okzy.com/20210214/22344_065611fd/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E7
+https://iqiyi.cdn9-okzy.com/20210221/22709_952a2a6d/index.m3u8
+#EXTINF:-1 group-title="日本动画 工作细胞 第二季_评分9.0",工作细胞 第二季 E8
+https://iqiyi.cdn9-okzy.com/20210228/22989_4aa006fc/index.m3u8
 #EXTINF:-1 group-title="目录",明星大侦探 第六季9.1分 共12集
 ##
 #EXTINF:-1 group-title="目录",戏剧新生活9.4分 共14集
 ##
 #EXTINF:-1 group-title="目录",机智的露营生活9.6分 共1集
 ##
-#EXTINF:-1 group-title="目录",创造营20216.0分 共13集
+#EXTINF:-1 group-title="目录",奇葩说 第七季7.1分 共44集
+##
+#EXTINF:-1 group-title="目录",创造营20216.1分 共13集
 ##
 #EXTINF:-1 group-title="目录",锵锵行天下 第二季9.4分 共2集
 ##
-#EXTINF:-1 group-title="目录",奇葩说 第七季7.1分 共44集
-##
-#EXTINF:-1 group-title="目录",吐槽大会 第五季6.1分 共6集
-##
 #EXTINF:-1 group-title="目录",王牌对王牌 第六季7.7分 共6集
 ##
-#EXTINF:-1 group-title="目录",青春有你 第三季5.4分 共12集
+#EXTINF:-1 group-title="目录",吐槽大会 第五季6.1分 共6集
 ##
 #EXTINF:-1 group-title="综艺 明星大侦探 第六季_评分9.1",明星大侦探 第六季 E1
 https://xigua-cdn.haima-zuida.com/20201223/18422_68059f50/index.m3u8
@@ -2875,36 +2401,6 @@ https://youku.cdn33-okzy.com/20210227/1637_bb88c729/index.m3u8
 https://youku.cdn33-okzy.com/20210227/1636_f1b9fac6/index.m3u8
 #EXTINF:-1 group-title="综艺 机智的露营生活_评分9.6",机智的露营生活 E1
 https://iqiyi.cdn8-okzy.com/20210305/11422_9d98a64f/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E1
-https://youku.cdn33-okzy.com/20210217/1351_1545899f/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E2
-https://youku.cdn33-okzy.com/20210219/1405_51c1f90b/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E3
-https://youku.cdn33-okzy.com/20210220/1424_a3d0fa68/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E4
-https://youku.cdn33-okzy.com/20210220/1423_7879ab02/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E5
-https://youku.cdn33-okzy.com/20210221/1465_8cbdd7c2/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E6
-https://youku.cdn33-okzy.com/20210227/1632_34e5b0f5/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E7
-https://youku.cdn33-okzy.com/20210228/1712_e70ea62a/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E8
-https://youku.cdn33-okzy.com/20210301/1737_15eba2aa/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E9
-https://youku.cdn33-okzy.com/20210303/1814_88e982d6/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E10
-https://youku.cdn33-okzy.com/20210306/1889_dcc9f56b/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E11
-https://youku.cdn33-okzy.com/20210307/1911_29763bf3/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E12
-https://youku.cdn33-okzy.com/20210308/1942_ab6d7817/index.m3u8
-#EXTINF:-1 group-title="综艺 创造营2021_评分6.0",创造营2021 E13
-https://youku.cdn33-okzy.com/20210309/1955_b700ccd2/index.m3u8
-#EXTINF:-1 group-title="综艺 锵锵行天下 第二季_评分9.4",锵锵行天下 第二季 E1
-https://youku.cdn33-okzy.com/20210302/1782_52a8d60d/index.m3u8
-#EXTINF:-1 group-title="综艺 锵锵行天下 第二季_评分9.4",锵锵行天下 第二季 E2
-https://youku.cdn33-okzy.com/20210302/1781_7f15c8d9/index.m3u8
 #EXTINF:-1 group-title="综艺 奇葩说 第七季_评分7.1",奇葩说 第七季 E1
 https://youku.cdn3-okzy.com/20201217/15583_11015c2e/index.m3u8
 #EXTINF:-1 group-title="综艺 奇葩说 第七季_评分7.1",奇葩说 第七季 E2
@@ -2993,18 +2489,36 @@ https://youku.cdn33-okzy.com/20210304/1836_6dc53409/index.m3u8
 https://youku.cdn33-okzy.com/20210306/1893_cbb0369e/index.m3u8
 #EXTINF:-1 group-title="综艺 奇葩说 第七季_评分7.1",奇葩说 第七季 E44
 https://youku.cdn33-okzy.com/20210306/1894_9643acf8/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E1
-https://pingmu.aa-zui.com/20210131/172_c8fc2723/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E2
-https://pingmu.aa-zui.com/20210207/706_74312008/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E3
-https://douban.donghongzuida.com/20210214/17396_095924e1/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E4
-https://pingmu.aa-zui.com/20210221/1685_91922003/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E5
-https://pingmu.aa-zui.com/20210228/2166_d9f1654f/index.m3u8
-#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E6
-https://pingmu.aa-zui.com/20210307/2740_879c9f8f/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E1
+https://youku.cdn33-okzy.com/20210217/1351_1545899f/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E2
+https://youku.cdn33-okzy.com/20210219/1405_51c1f90b/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E3
+https://youku.cdn33-okzy.com/20210220/1424_a3d0fa68/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E4
+https://youku.cdn33-okzy.com/20210220/1423_7879ab02/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E5
+https://youku.cdn33-okzy.com/20210221/1465_8cbdd7c2/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E6
+https://youku.cdn33-okzy.com/20210227/1632_34e5b0f5/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E7
+https://youku.cdn33-okzy.com/20210228/1712_e70ea62a/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E8
+https://youku.cdn33-okzy.com/20210301/1737_15eba2aa/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E9
+https://youku.cdn33-okzy.com/20210303/1814_88e982d6/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E10
+https://youku.cdn33-okzy.com/20210306/1889_dcc9f56b/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E11
+https://youku.cdn33-okzy.com/20210307/1911_29763bf3/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E12
+https://youku.cdn33-okzy.com/20210308/1942_ab6d7817/index.m3u8
+#EXTINF:-1 group-title="综艺 创造营2021_评分6.1",创造营2021 E13
+https://youku.cdn33-okzy.com/20210309/1955_b700ccd2/index.m3u8
+#EXTINF:-1 group-title="综艺 锵锵行天下 第二季_评分9.4",锵锵行天下 第二季 E1
+https://youku.cdn33-okzy.com/20210302/1782_52a8d60d/index.m3u8
+#EXTINF:-1 group-title="综艺 锵锵行天下 第二季_评分9.4",锵锵行天下 第二季 E2
+https://youku.cdn33-okzy.com/20210302/1781_7f15c8d9/index.m3u8
 #EXTINF:-1 group-title="综艺 王牌对王牌 第六季_评分7.7",王牌对王牌 第六季 E1
 https://youku.cdn33-okzy.com/20210130/845_054ca4ee/index.m3u8
 #EXTINF:-1 group-title="综艺 王牌对王牌 第六季_评分7.7",王牌对王牌 第六季 E2
@@ -3017,50 +2531,50 @@ https://youku.cdn33-okzy.com/20210219/1411_0025a371/index.m3u8
 https://iqiyi.cdn22-okzyw.net/20210227/10098_3a5dc750/index.m3u8
 #EXTINF:-1 group-title="综艺 王牌对王牌 第六季_评分7.7",王牌对王牌 第六季 E6
 https://youku.cdn33-okzy.com/20210306/1867_59b2ace6/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E1
-https://youku.cdn33-okzy.com/20210217/1350_1dafed06/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E2
-https://youku.cdn33-okzy.com/20210219/1400_25daea49/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E3
-https://youku.cdn33-okzy.com/20210219/1399_8c56318a/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E4
-https://youku.cdn33-okzy.com/20210225/1565_568bc19a/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E5
-https://youku.cdn33-okzy.com/20210225/1564_25813bca/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E6
-https://youku.cdn33-okzy.com/20210225/1576_d859e5b4/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E7
-https://youku.cdn33-okzy.com/20210225/1578_14119c99/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E8
-https://youku.cdn33-okzy.com/20210227/1630_73ff381a/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E9
-https://youku.cdn33-okzy.com/20210227/1629_44c711fa/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E10
-https://youku.cdn33-okzy.com/20210304/1839_e851176f/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E11
-https://youku.cdn33-okzy.com/20210306/1896_3f961cc6/index.m3u8
-#EXTINF:-1 group-title="综艺 青春有你 第三季_评分5.4",青春有你 第三季 E12
-https://youku.cdn33-okzy.com/20210306/1895_f0bb3d09/index.m3u8
-#EXTINF:-1 group-title="目录",河西走廊9.7分 共10集
-##
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E1
+https://pingmu.aa-zui.com/20210131/172_c8fc2723/index.m3u8
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E2
+https://pingmu.aa-zui.com/20210207/706_74312008/index.m3u8
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E3
+https://douban.donghongzuida.com/20210214/17396_095924e1/index.m3u8
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E4
+https://pingmu.aa-zui.com/20210221/1685_91922003/index.m3u8
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E5
+https://pingmu.aa-zui.com/20210228/2166_d9f1654f/index.m3u8
+#EXTINF:-1 group-title="综艺 吐槽大会 第五季_评分6.1",吐槽大会 第五季 E6
+https://pingmu.aa-zui.com/20210307/2740_879c9f8f/index.m3u8
 #EXTINF:-1 group-title="目录",弗兰·勒博维茨：假装我们在城市9.0分 共7集
 ##
-#EXTINF:-1 group-title="目录",泰格·伍兹8.6分 共2集
+#EXTINF:-1 group-title="目录",河西走廊9.7分 共10集
+##
+#EXTINF:-1 group-title="目录",泰格·伍兹8.7分 共2集
 ##
 #EXTINF:-1 group-title="目录",摩门教谋杀案8.0分 共3集
 ##
-#EXTINF:-1 group-title="目录",人生第一次9.2分 共12集
-##
 #EXTINF:-1 group-title="目录",但是还有书籍9.2分 共5集
 ##
-#EXTINF:-1 group-title="目录",我在故宫修文物9.4分 共3集
-##
-#EXTINF:-1 group-title="目录",完美星球9.7分 共5集
+#EXTINF:-1 group-title="目录",人生第一次9.2分 共12集
 ##
 #EXTINF:-1 group-title="目录",地球脉动 第二季9.9分 共6集
 ##
+#EXTINF:-1 group-title="目录",完美星球9.7分 共5集
+##
 #EXTINF:-1 group-title="目录",大猫9.5分 共3集
 ##
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E1
+https://shuixian.nihaozuida.com/20210109/15016_0725718e/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E2
+https://shuixian.nihaozuida.com/20210109/15017_39283c0c/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E3
+https://shuixian.nihaozuida.com/20210109/15018_c16ae684/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E4
+https://shuixian.nihaozuida.com/20210109/15019_2f2cf6ae/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E5
+https://shuixian.nihaozuida.com/20210109/15020_6ea27aa6/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E6
+https://shuixian.nihaozuida.com/20210109/15021_d6ca268c/index.m3u8
+#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E7
+https://shuixian.nihaozuida.com/20210109/15022_01559a9c/index.m3u8
 #EXTINF:-1 group-title="纪录片 河西走廊_评分9.7",河西走廊 E1
 https://sina.com-h-sina.com/20180815/10062_2e854f68/index.m3u8
 #EXTINF:-1 group-title="纪录片 河西走廊_评分9.7",河西走廊 E2
@@ -3081,23 +2595,9 @@ https://sina.com-h-sina.com/20180815/10069_c29a05d5/index.m3u8
 https://sina.com-h-sina.com/20180815/10070_3ed7bde6/index.m3u8
 #EXTINF:-1 group-title="纪录片 河西走廊_评分9.7",河西走廊 E10
 https://sina.com-h-sina.com/20180815/10071_6fa931e8/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E1
-https://shuixian.nihaozuida.com/20210109/15016_0725718e/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E2
-https://shuixian.nihaozuida.com/20210109/15017_39283c0c/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E3
-https://shuixian.nihaozuida.com/20210109/15018_c16ae684/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E4
-https://shuixian.nihaozuida.com/20210109/15019_2f2cf6ae/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E5
-https://shuixian.nihaozuida.com/20210109/15020_6ea27aa6/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E6
-https://shuixian.nihaozuida.com/20210109/15021_d6ca268c/index.m3u8
-#EXTINF:-1 group-title="纪录片 弗兰·勒博维茨：假装我们在城市_评分9.0",弗兰·勒博维茨：假装我们在城市 E7
-https://shuixian.nihaozuida.com/20210109/15022_01559a9c/index.m3u8
-#EXTINF:-1 group-title="纪录片 泰格·伍兹_评分8.6",泰格·伍兹 E1
+#EXTINF:-1 group-title="纪录片 泰格·伍兹_评分8.7",泰格·伍兹 E1
 https://shuixian.nihaozuida.com/20210118/15523_2ae87c9a/index.m3u8
-#EXTINF:-1 group-title="纪录片 泰格·伍兹_评分8.6",泰格·伍兹 E2
+#EXTINF:-1 group-title="纪录片 泰格·伍兹_评分8.7",泰格·伍兹 E2
 https://shuixian.nihaozuida.com/20210118/15524_a242db68/index.m3u8
 #EXTINF:-1 group-title="纪录片 摩门教谋杀案_评分8.0",摩门教谋杀案 E1
 https://youku.cdn31-okzy.com/20210306/4375_6235105f/index.m3u8
@@ -3105,6 +2605,16 @@ https://youku.cdn31-okzy.com/20210306/4375_6235105f/index.m3u8
 https://youku.cdn31-okzy.com/20210306/4376_0cc0b533/index.m3u8
 #EXTINF:-1 group-title="纪录片 摩门教谋杀案_评分8.0",摩门教谋杀案 E3
 https://youku.cdn31-okzy.com/20210306/4374_168ab61e/index.m3u8
+#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E1
+https://zuikzy.win7i.com/2020/02/05/mpa16D4ANfUcRAHa/playlist.m3u8
+#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E2
+https://zuikzy.win7i.com/2020/02/05/RY4V2CHznyQhgvds/playlist.m3u8
+#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E3
+https://zuikzy.win7i.com/2020/02/05/FMdC3JBGKpezY6nL/playlist.m3u8
+#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E4
+https://zuikzy.win7i.com/2020/02/05/QtjNiMO2tYf9q92o/playlist.m3u8
+#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E5
+https://zuikzy.win7i.com/2020/02/05/Y4gi6rEDfqNqgsuq/playlist.m3u8
 #EXTINF:-1 group-title="纪录片 人生第一次_评分9.2",人生第一次 E1
 https://zk2.cdt-md.com/2020/04/16/GEN1SItiWSrOIRf4/playlist.m3u8
 #EXTINF:-1 group-title="纪录片 人生第一次_评分9.2",人生第一次 E2
@@ -3129,32 +2639,6 @@ https://zk2.cdt-md.com/2020/02/13/VtCFPjvimfYS0C4z/playlist.m3u8
 https://zk2.cdt-md.com/2020/01/23/GfvwWEaxIXZlRJR4/playlist.m3u8
 #EXTINF:-1 group-title="纪录片 人生第一次_评分9.2",人生第一次 E12
 https://zk2.603ee.com/2020/01/16/2aVMnCpvMMGMzylP/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E1
-https://zuikzy.win7i.com/2020/02/05/mpa16D4ANfUcRAHa/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E2
-https://zuikzy.win7i.com/2020/02/05/RY4V2CHznyQhgvds/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E3
-https://zuikzy.win7i.com/2020/02/05/FMdC3JBGKpezY6nL/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E4
-https://zuikzy.win7i.com/2020/02/05/QtjNiMO2tYf9q92o/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 但是还有书籍_评分9.2",但是还有书籍 E5
-https://zuikzy.win7i.com/2020/02/05/Y4gi6rEDfqNqgsuq/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 我在故宫修文物_评分9.4",我在故宫修文物 E1
-https://zk.sd-dykj.com/2020/06/08/NQEusbzLgdePXW9j/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 我在故宫修文物_评分9.4",我在故宫修文物 E2
-https://zk.sd-dykj.com/2020/06/08/pHQPtXQCKw6ESCk5/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 我在故宫修文物_评分9.4",我在故宫修文物 E3
-https://zk.sd-dykj.com/2020/06/08/6sqWmkqHml1jfPGb/playlist.m3u8
-#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E1
-https://yuledy.helanzuida.com/20210106/17838_2f95af66/index.m3u8
-#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E2
-https://shuixian.nihaozuida.com/20210119/15572_74f6fd56/index.m3u8
-#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E3
-https://shuixian.nihaozuida.com/20210119/15573_95a7f290/index.m3u8
-#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E4
-https://shuixian.nihaozuida.com/20210119/15574_e43c937e/index.m3u8
-#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E5
-https://shuixian.nihaozuida.com/20210119/15575_be5e5be3/index.m3u8
 #EXTINF:-1 group-title="纪录片 地球脉动 第二季_评分9.9",地球脉动 第二季 E1
 https://yanzishan.shuhu-zuida.com/20190805/4889_8bda0c3c/index.m3u8
 #EXTINF:-1 group-title="纪录片 地球脉动 第二季_评分9.9",地球脉动 第二季 E2
@@ -3167,6 +2651,16 @@ https://yanzishan.shuhu-zuida.com/20190805/4886_97fc05c9/index.m3u8
 https://yanzishan.shuhu-zuida.com/20190805/4885_2a25e879/index.m3u8
 #EXTINF:-1 group-title="纪录片 地球脉动 第二季_评分9.9",地球脉动 第二季 E6
 https://yanzishan.shuhu-zuida.com/20190805/4884_d591af48/index.m3u8
+#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E1
+https://yuledy.helanzuida.com/20210106/17838_2f95af66/index.m3u8
+#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E2
+https://shuixian.nihaozuida.com/20210119/15572_74f6fd56/index.m3u8
+#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E3
+https://shuixian.nihaozuida.com/20210119/15573_95a7f290/index.m3u8
+#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E4
+https://shuixian.nihaozuida.com/20210119/15574_e43c937e/index.m3u8
+#EXTINF:-1 group-title="纪录片 完美星球_评分9.7",完美星球 E5
+https://shuixian.nihaozuida.com/20210119/15575_be5e5be3/index.m3u8
 #EXTINF:-1 group-title="纪录片 大猫_评分9.5",大猫 E1
 https://bobo.okokbo.com/20180117/GqY6gJMX/index.m3u8
 #EXTINF:-1 group-title="纪录片 大猫_评分9.5",大猫 E2
